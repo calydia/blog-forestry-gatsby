@@ -16,3 +16,8 @@ fields:
     schema:
       format: markdown
   label: Body
+- name: listing_template
+  type: include
+  config: {}
+  template: listing
+  label: Listing template
