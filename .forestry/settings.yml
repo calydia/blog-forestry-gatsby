@@ -18,6 +18,13 @@ sections:
   match: content/pages
   templates:
   - basic-page
+- type: directory
+  path: content/listing
+  label: Blog listings
+  create: all
+  match: content/listing
+  templates:
+  - blog-listing
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
