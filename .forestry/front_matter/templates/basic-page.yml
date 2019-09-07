@@ -21,5 +21,3 @@ fields:
     schema:
       format: markdown
   label: Body
-pages:
-- content/pages/basic-page-test.md

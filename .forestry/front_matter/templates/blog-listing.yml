@@ -21,5 +21,3 @@ fields:
   config: {}
   template: listing
   label: Listing template
-pages:
-- content/listing/test-listing.md
