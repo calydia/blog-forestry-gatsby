@@ -5,24 +5,24 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/posts
+  path: src/pages/posts
   label: Posts
   create: all
-  match: content/posts
+  match: src/pages/posts
   templates:
   - blog-post
 - type: directory
-  path: content/pages
+  path: src/pages/pages
   label: Basic pages
   create: all
-  match: content/pages
+  match: src/pages/pages
   templates:
   - basic-page
 - type: directory
-  path: content/listing
+  path: src/pages/listings
   label: Blog listings
   create: all
-  match: content/listing
+  match: src/pages/listings
   templates:
   - blog-listing
 upload_dir: uploads
