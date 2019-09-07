@@ -5,19 +5,19 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/pages
-  label: Basic pages
-  create: all
-  match: content/pages
-  templates:
-  - basic-page
-- type: directory
   path: content/posts
   label: Posts
   create: all
   match: content/posts
   templates:
   - blog-post
+- type: directory
+  path: content/pages
+  label: Basic pages
+  create: all
+  match: content/pages
+  templates:
+  - basic-page
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
