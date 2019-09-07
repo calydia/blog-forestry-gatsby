@@ -1,4 +1,23 @@
 ---
 label: Basic page
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: main_image
+  type: file
+  config:
+    maxSize: 250
+  label: Main image
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Body
