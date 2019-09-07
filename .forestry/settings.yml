@@ -4,9 +4,13 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: test-post.md
-  label: Document
+- type: directory
+  path: content/pages
+  label: Basic pages
+  create: all
+  match: content/pages
+  templates:
+  - basic-page
 - type: directory
   path: content/posts
   label: Posts
