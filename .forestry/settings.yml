@@ -7,7 +7,6 @@ sections:
 - type: document
   path: test-post.md
   label: Document
-  match: "**/*"
 - type: directory
   path: content/posts
   label: Posts
