@@ -68,7 +68,7 @@ module.exports = {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
-          families: ['Rock Salt'],
+          families: ['Rock Salt', 'Raleway:400,700'],
         },
       },
     },

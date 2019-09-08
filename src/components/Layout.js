@@ -1,8 +1,8 @@
-import React from 'react'
-import { graphql, StaticQuery } from 'gatsby'
-import ThemeContext from '../context/ThemeContext'
-import Header from '../components/header'
-import Footer from '../components/footer'
+import React from 'react';
+import { graphql, StaticQuery } from 'gatsby';
+import ThemeContext from '../context/ThemeContext';
+import Header from '../components/Header';
+import Footer from '../components/Footer';
 
 export default ({ children }) => {
   return (
@@ -15,5 +15,5 @@ export default ({ children }) => {
         </div>
       )}
     </ThemeContext.Consumer>
-  )
-}
+  );
+};

@@ -1,0 +1,24 @@
+.main-header {
+  margin: 0 auto;
+  max-width: 1500px;
+  width: 95%;
+}
+
+.home-main {
+  display: flex;
+  flex-flow: column nowrap;
+  font-family: 'Rock Salt', cursive;
+  font-weight: normal;
+  margin-top: 1.5em;
+  text-align: center;
+  text-decoration: none;
+  .name {
+    @include fontSize(30px);
+    line-height: 1;
+  }
+  .blog {
+    @include fontSize(18px);
+    line-height: 1;
+    margin-top: 0.5em;
+  }
+}

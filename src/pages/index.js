@@ -1,13 +1,113 @@
-import React from 'react'
-import { Link, graphql } from 'gatsby'
-import Layout from '../components/layout'
+import React from 'react';
+import { graphql } from 'gatsby';
+import Img from 'gatsby-image';
+import Layout from '../components/Layout';
+import Info from '../components/Info';
 
 export default ({ data }) => {
   return (
     <Layout>
-      <div>
-        <h1>Front page</h1>
+      <div className="blog-wrapper">
+        <section className="intro">
+          <h1>Blog</h1>
+        </section>
+
+        <div className="blog-first">
+          {data.allMarkdownRemark.edges.map((node, index) => {
+            let listingFluid =
+              node.node.frontmatter.listing_image.childImageSharp.fluid;
+            return (
+              <a key={index} href={node.node.frontmatter.path}>
+                <article key={index} className="post">
+                  <Img fluid={listingFluid} />
+                  <div className="post-content">
+                    <h2>{node.node.frontmatter.title}</h2>
+                    <span className="blog-info">
+                      {node.node.frontmatter.post_date} |{' '}
+                      {node.node.frontmatter.category}
+                    </span>
+                  </div>
+                </article>
+              </a>
+            );
+          })}
+        </div>
+        <section className="blog-container">
+          <div className="blog-list">
+            {data.all.edges.map((node, index) => {
+              let listingFluid =
+                node.node.frontmatter.listing_image.childImageSharp.fluid;
+              return (
+                <a key={index} href={node.node.frontmatter.path}>
+                  <article key={index} className="post">
+                    <Img fluid={listingFluid} />
+                    <div className="post-content">
+                      <h2>{node.node.frontmatter.title}</h2>
+                      <span className="blog-info">
+                        {node.node.frontmatter.post_date} |{' '}
+                        {node.node.frontmatter.category}
+                      </span>
+                    </div>
+                  </article>
+                </a>
+              );
+            })}
+          </div>
+          <aside className="sidebar">
+            <Info />
+          </aside>
+        </section>
       </div>
     </Layout>
-  )
-}
+  );
+};
+export const query = graphql`
+  query {
+    allMarkdownRemark(
+      filter: { frontmatter: { type: { eq: "blog-post" } } }
+      sort: { fields: frontmatter___post_date, order: DESC }
+      limit: 1
+    ) {
+      edges {
+        node {
+          frontmatter {
+            title
+            path
+            post_date(formatString: "DD.MM.YYYY")
+            category
+            listing_image {
+              childImageSharp {
+                fluid(maxWidth: 1025) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    all: allMarkdownRemark(
+      filter: { frontmatter: { type: { eq: "blog-post" } } }
+      sort: { fields: frontmatter___post_date, order: DESC }
+      skip: 1
+    ) {
+      edges {
+        node {
+          frontmatter {
+            title
+            path
+            post_date(formatString: "DD.MM.YYYY")
+            category
+            listing_image {
+              childImageSharp {
+                fluid(maxWidth: 450) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+`;

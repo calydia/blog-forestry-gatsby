@@ -1,0 +1,11 @@
+.main-menu {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+.main-menu-item {
+  margin: 0.5em;
+  padding: 0.5em;
+}

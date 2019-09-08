@@ -1,0 +1,41 @@
+.category-intro {
+  width: 100%;
+}
+.blog-first {
+  width: 100%;
+}
+
+.blog-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  margin-top: 2em;
+  width: 100%;
+}
+
+.post {
+  align-items: center;
+  background: white;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 1em;
+  .gatsby-image-wrapper {
+    max-width: 1025px;
+    width: 100%;
+  }
+  .post-content {
+    margin-left: 2em;
+  }
+}
+
+.blog-list {
+  margin-right: 2em;
+  max-width: calc(1025px + 2em);
+  width: calc(100% - 280px - 2em);
+  .post {
+    .gatsby-image-wrapper {
+      max-width: 513px;
+      width: 100%;
+    }
+  }
+}
