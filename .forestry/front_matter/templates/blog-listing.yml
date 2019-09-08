@@ -7,6 +7,12 @@ fields:
   config:
     required: false
   label: Title
+- name: path
+  type: text
+  config:
+    required: false
+  label: Path
+  description: Page url path
 - name: body
   type: textarea
   default: ''
@@ -16,19 +22,6 @@ fields:
     schema:
       format: markdown
   label: Body
-- name: type
-  type: text
-  config:
-    required: false
-  label: Type
-  hidden: true
-  default: blog-listing
-- name: path
-  type: text
-  config:
-    required: false
-  label: Path
-  description: Page url path
 - name: blog_post_listing
   type: list
   config:
@@ -40,3 +33,10 @@ fields:
       section: posts
   label: Blog post listing
   description: Select the blog posts to display on this page
+- name: type
+  type: text
+  config:
+    required: false
+  label: Type
+  hidden: true
+  default: blog-listing
