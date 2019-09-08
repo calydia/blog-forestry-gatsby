@@ -7,6 +7,12 @@ fields:
   config:
     required: false
   label: Title
+- name: path
+  type: text
+  config:
+    required: false
+  label: Path
+  description: Page url path
 - name: main_image
   type: file
   config:
@@ -28,9 +34,3 @@ fields:
   label: Type
   hidden: true
   default: basic-page
-- name: path
-  type: text
-  config:
-    required: false
-  label: Path
-  description: Page url path
