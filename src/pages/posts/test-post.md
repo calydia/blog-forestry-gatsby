@@ -6,17 +6,7 @@ title: Test post
 path: "/cats/test"
 main_image: "/uploads/lumia-looking-mean-main.jpg"
 listing_image: "/uploads/osiris-watching-thumbnail.jpg"
-body: |-
-  Body for the test blog
-
-  Another paragraph
-
-  **Bolded text**. _Italic_. [Link](https://forestry.io "Link")
-
-  > Quoted text
-
-  * List
-  * List
-  * List
+body: <p>Body</p><p>Body</p><p><strong>Bold</strong>. <em>Italic</em>. <a href="https://forestry.io"
+  title="Link to Forestry">Link</a></p><blockquote><p>Quoted text</p></blockquote><ul><li><p>List</p></li><li><p>List</p></li><li><p>List</p></li></ul>
 
 ---
