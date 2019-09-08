@@ -21,3 +21,10 @@ fields:
     schema:
       format: markdown
   label: Body
+- name: type
+  type: text
+  config:
+    required: false
+  label: Type
+  hidden: true
+  default: basic-page
