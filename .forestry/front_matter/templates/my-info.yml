@@ -7,6 +7,11 @@ fields:
   config:
     maxSize: 250
   label: Profile image
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
 - name: info
   type: textarea
   default: ''
