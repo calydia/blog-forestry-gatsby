@@ -11,10 +11,7 @@ exports.createPages = ({ graphql, actions }) => {
       graphql(
         `
           {
-            allMarkdownRemark(
-              sort: { fields: [frontmatter___date], order: DESC }
-              limit: 1000
-            ) {
+            allMarkdownRemark {
               edges {
                 node {
                   fields {
@@ -22,6 +19,8 @@ exports.createPages = ({ graphql, actions }) => {
                   }
                   frontmatter {
                     title
+                    type
+                    path
                   }
                 }
               }
@@ -45,10 +44,12 @@ exports.createPages = ({ graphql, actions }) => {
           createPage({
             path: post.node.fields.slug,
             component: path.resolve(
-              `src/templates/${String(node.frontmatter.templateKey)}.js`
+              `src/templates/${String(post.node.frontmatter.type)}.js`
             ),
             context: {
-              slug: post.node.fields.slug,
+              slug: post.node.frontmatter.path
+                ? post.node.frontmatter.path
+                : post.node.fields.slug,
               previous,
               next,
             },

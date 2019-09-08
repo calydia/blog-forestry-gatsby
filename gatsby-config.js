@@ -4,6 +4,33 @@ module.exports = {
     author: 'Sanna Mäkinen',
     description: 'A blog about cats and life and whatever comes to mind',
     siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    menuLinks: [
+      {
+        name: 'Work experience',
+        link: '/experience',
+        id: 'menu-2',
+      },
+      {
+        name: 'Skills and tools',
+        link: '/skills',
+        id: 'menu-3',
+      },
+      {
+        name: 'Education',
+        link: '/education',
+        id: 'menu-4',
+      },
+      {
+        name: 'Projects',
+        link: '/projects',
+        id: 'menu-5',
+      },
+      {
+        name: 'About me',
+        link: '/about-me',
+        id: 'menu-6',
+      },
+    ],
   },
   plugins: [
     {
@@ -65,11 +92,5 @@ module.exports = {
     },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
-    {
-      resolve: 'gatsby-plugin-typography',
-      options: {
-        pathToConfigModule: 'src/utils/typography',
-      },
-    },
   ],
 }
