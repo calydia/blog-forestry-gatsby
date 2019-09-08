@@ -7,15 +7,12 @@ fields:
   config:
     required: false
   label: Title
-- name: body
-  type: textarea
-  default: ''
+- name: path
+  type: text
   config:
     required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Body
+  label: Path
+  description: Page url path
 - name: category
   type: tag_list
   default: []
@@ -30,6 +27,15 @@ fields:
   config:
     maxSize: 250
   label: Listing image
+- name: body
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Body
 - name: type
   type: text
   config:
@@ -37,9 +43,3 @@ fields:
   label: Type
   hidden: true
   default: blog-post
-- name: path
-  type: text
-  config:
-    required: false
-  label: Path
-  description: Page url path
