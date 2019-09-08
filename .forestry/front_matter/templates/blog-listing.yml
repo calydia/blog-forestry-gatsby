@@ -23,3 +23,9 @@ fields:
   label: Type
   hidden: true
   default: blog-listing
+- name: path
+  type: text
+  config:
+    required: false
+  label: Path
+  description: Page url path
