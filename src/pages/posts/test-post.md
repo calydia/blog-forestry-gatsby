@@ -1,5 +1,6 @@
 ---
-category: []
+category:
+- Cats
 type: blog-post
 title: Test post
 path: "/cats/test"
