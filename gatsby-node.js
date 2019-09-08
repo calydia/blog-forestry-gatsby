@@ -41,15 +41,17 @@ exports.createPages = ({ graphql, actions }) => {
             index === posts.length - 1 ? null : posts[index + 1].node
           const next = index === 0 ? null : posts[index - 1].node
 
+          const address = post.node.frontmatter.path
+            ? post.node.frontmatter.path
+            : post.node.fields.slug
+
           createPage({
-            path: post.node.fields.slug,
+            path: address,
             component: path.resolve(
               `src/templates/${String(post.node.frontmatter.type)}.js`
             ),
             context: {
-              slug: post.node.frontmatter.path
-                ? post.node.frontmatter.path
-                : post.node.fields.slug,
+              slug: address,
               previous,
               next,
             },
@@ -68,7 +70,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     createNodeField({
       name: `slug`,
       node,
-      value,
+      value: node.frontmatter.path,
     })
   }
 }
