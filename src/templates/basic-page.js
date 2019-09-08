@@ -10,7 +10,7 @@ export default ({ data }) => {
     <Layout>
       <div className="blog-wrapper">
         <Img fluid={mainFluid} />
-        <div className="blog-content">
+        <div className="basic-content">
           <h1>{post.frontmatter.title}</h1>
           <div dangerouslySetInnerHTML={{ __html: post.frontmatter.body }} />
         </div>

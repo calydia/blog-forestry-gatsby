@@ -13,6 +13,9 @@ export default ({ data }) => {
         <Img fluid={mainFluid} />
         <div className="blog-content">
           <h1>{post.frontmatter.title}</h1>
+          <span className="blog-info">
+            {post.frontmatter.post_date} | {post.frontmatter.category}
+          </span>
           <div dangerouslySetInnerHTML={{ __html: post.frontmatter.body }} />
         </div>
 
@@ -29,6 +32,8 @@ export const query = graphql`
       frontmatter {
         title
         body
+        post_date(formatString: "DD.MM.YYYY")
+        category
         main_image {
           childImageSharp {
             fluid(maxWidth: 1500) {

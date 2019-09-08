@@ -29,7 +29,7 @@ body {
   .blog {
     @include fontSize(18px);
     line-height: 1;
-    margin-top: 0.2em;
+    margin-top: 0.5em;
   }
 }
 
@@ -102,6 +102,13 @@ body {
     margin-right: 3em;
     width: calc(100% - 280px - 9em);
   }
+}
+
+.basic-content {
+  background: white;
+  padding: 3em;
+  margin-top: 75px;
+  width: calc(100% - 6em);
 }
 
 .main-footer {

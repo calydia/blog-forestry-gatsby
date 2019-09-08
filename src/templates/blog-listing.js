@@ -19,6 +19,10 @@ export default ({ data }) => {
             return (
               <div key={index}>
                 {node.node.frontmatter.title}
+                <span className="blog-info">
+                  {node.node.frontmatter.post_date} |{' '}
+                  {node.node.frontmatter.category}
+                </span>
                 <Img fluid={listingFluid} />
               </div>
             );
@@ -48,6 +52,8 @@ export const query = graphql`
         node {
           frontmatter {
             title
+            post_date(formatString: "DD.MM.YYYY")
+            category
             listing_image {
               childImageSharp {
                 fluid(maxWidth: 1025) {
