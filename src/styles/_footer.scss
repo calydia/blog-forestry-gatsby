@@ -8,3 +8,10 @@
   max-width: 1500px;
   width: 95%;
 }
+
+//Dark theme overrides
+.dark {
+  .main-footer {
+    background: $dark_secondary;
+  }
+}

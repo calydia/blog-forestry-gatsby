@@ -19,7 +19,11 @@ export default ({ data }) => {
             let listingFluid =
               node.node.frontmatter.listing_image.childImageSharp.fluid;
             return (
-              <a key={index} href={node.node.frontmatter.path}>
+              <a
+                key={index}
+                href={node.node.frontmatter.path}
+                className="blog-link"
+              >
                 <article key={index} className="post">
                   <Img fluid={listingFluid} />
                   <div className="post-content">
@@ -40,7 +44,11 @@ export default ({ data }) => {
               let listingFluid =
                 node.node.frontmatter.listing_image.childImageSharp.fluid;
               return (
-                <a key={index} href={node.node.frontmatter.path}>
+                <a
+                  key={index}
+                  href={node.node.frontmatter.path}
+                  className="blog-link"
+                >
                   <article key={index} className="post">
                     <Img fluid={listingFluid} />
                     <div className="post-content">

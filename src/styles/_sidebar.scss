@@ -39,3 +39,10 @@
     margin-top: 70px;
   }
 }
+
+// Dark theme overrides
+.dark {
+  .info-content {
+    background: $dark_neutral;
+  }
+}

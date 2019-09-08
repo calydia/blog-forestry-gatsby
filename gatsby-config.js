@@ -17,12 +17,12 @@ module.exports = {
       },
       {
         name: 'Life',
-        link: '/cats',
+        link: '/life',
         id: 'menu-3',
       },
       {
         name: 'Tech',
-        link: '/cats',
+        link: '/tech',
         id: 'menu-4',
       },
     ],

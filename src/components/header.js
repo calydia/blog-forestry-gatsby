@@ -32,7 +32,11 @@ export default () => {
               {data.site.siteMetadata.menuLinks.map(item => {
                 return (
                   <li className="main-menu-item" key={item.id}>
-                    <Link to={item.link} activeClassName="menu-active">
+                    <Link
+                      to={item.link}
+                      activeClassName="menu-active"
+                      partiallyActive={true}
+                    >
                       {item.name}
                     </Link>
                   </li>

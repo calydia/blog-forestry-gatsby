@@ -1,17 +1,21 @@
 .main-header {
   margin: 0 auto;
   max-width: 1500px;
+  padding-top: 1.5em;
   width: 95%;
 }
 
 .home-main {
+  color: black;
   display: flex;
   flex-flow: column nowrap;
   font-family: 'Rock Salt', cursive;
   font-weight: normal;
-  margin-top: 1.5em;
   text-align: center;
   text-decoration: none;
+  &:hover {
+    color: $secondary;
+  }
   .name {
     @include fontSize(30px);
     line-height: 1;

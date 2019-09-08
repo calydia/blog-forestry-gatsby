@@ -39,3 +39,10 @@
     }
   }
 }
+
+.blog-link {
+  color: black;
+  &:hover {
+    color: $secondary;
+  }
+}
