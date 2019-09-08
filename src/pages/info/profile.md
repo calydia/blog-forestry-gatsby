@@ -1,11 +1,10 @@
 ---
 profile_image: "/uploads/profile.jpg"
 name: Sanna Mäkinen
-info: Doggo ipsum waggy wags noodle horse you are doing me a frighten pupperino most
-  angery pupper I have ever seen, snoot wrinkler. Pupper doge pupperino super chub
-  shibe heckin angery woofer, adorable doggo corgo woofer. Very hand that feed shibe
-  wow very biscit heckin angery woofer heckin good boys doing me a frighten porgo
-  long doggo, pats big ol shoob waggy wags pats.
+info: "<p>I'm a developer by profession. So I like to code.</p><p>I've always been
+  fascinated by cats, ever since I was a child. I've dove into cat books all my life,
+  and as a result, my bookshelf has a lot of cat literature. I currently have two
+  cats.</p>"
 type: info
 path: "/about-me"
 
