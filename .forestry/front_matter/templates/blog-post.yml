@@ -37,3 +37,9 @@ fields:
   label: Type
   hidden: true
   default: blog-post
+- name: path
+  type: text
+  config:
+    required: false
+  label: Path
+  description: Page url path
