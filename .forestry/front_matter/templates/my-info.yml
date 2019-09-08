@@ -1,4 +1,18 @@
 ---
 label: My info
 hide_body: true
-fields: []
+fields:
+- name: profile_image
+  type: file
+  config:
+    maxSize: 250
+  label: Profile image
+- name: info
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Info
