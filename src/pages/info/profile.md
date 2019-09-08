@@ -7,5 +7,6 @@ info: Doggo ipsum waggy wags noodle horse you are doing me a frighten pupperino 
   wow very biscit heckin angery woofer heckin good boys doing me a frighten porgo
   long doggo, pats big ol shoob waggy wags pats.
 type: info
+path: "/about-me"
 
 ---
