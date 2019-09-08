@@ -40,5 +40,3 @@ fields:
   label: Type
   hidden: true
   default: blog-listing
-pages:
-- src/pages/listings/cats.md

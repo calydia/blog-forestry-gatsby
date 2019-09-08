@@ -34,5 +34,3 @@ fields:
   label: Type
   hidden: true
   default: basic-page
-pages:
-- src/pages/pages/about-this-blog.md

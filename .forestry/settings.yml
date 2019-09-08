@@ -8,21 +8,21 @@ sections:
   path: src/pages/posts
   label: Posts
   create: all
-  match: src/pages/posts
+  match: "**/*"
   templates:
   - blog-post
 - type: directory
   path: src/pages/pages
   label: Basic pages
   create: all
-  match: src/pages/pages
+  match: "**/*"
   templates:
   - basic-page
 - type: directory
   path: src/pages/listings
   label: Blog listings
   create: all
-  match: src/pages/listings
+  match: "**/*"
   templates:
   - blog-listing
 upload_dir: uploads
