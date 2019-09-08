@@ -3,6 +3,7 @@
   flex-flow: row wrap;
   justify-content: center;
   list-style: none;
+  margin-bottom: 0;
   padding: 0;
 }
 .main-menu-item {
@@ -17,5 +18,20 @@
   }
   a.menu-active {
     color: $secondary;
+  }
+}
+
+//Dark theme overrides
+.dark {
+  .main-menu-item {
+    a {
+      color: white;
+      &:hover {
+        color: $dark_blue;
+      }
+    }
+    a.menu-active {
+      color: $dark_blue;
+    }
   }
 }

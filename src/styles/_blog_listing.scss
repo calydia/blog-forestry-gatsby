@@ -1,5 +1,14 @@
+@import './variables';
+@import './mixins';
+
 .category-intro {
+  padding: 2em;
+  text-align: center;
   width: 100%;
+  h1 {
+    @include fontSize(50px);
+    margin: 0;
+  }
 }
 .blog-first {
   width: 100%;
@@ -44,5 +53,18 @@
   color: black;
   &:hover {
     color: $secondary;
+  }
+}
+
+//Dark theme overrides
+.dark {
+  .post {
+    background: $dark_secondary;
+  }
+  .blog-link {
+    color: white;
+    &:hover {
+      color: $dark_blue;
+    }
   }
 }

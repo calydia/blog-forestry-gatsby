@@ -26,3 +26,13 @@
     margin-top: 0.5em;
   }
 }
+
+//Dark theme overrides
+.dark {
+  .home-main {
+    color: white;
+    &:hover {
+      color: $dark_blue;
+    }
+  }
+}

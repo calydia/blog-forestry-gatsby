@@ -1,0 +1,17 @@
+.dark-switcher {
+  background: $neutral;
+  border: 0;
+  cursor: pointer;
+  padding: 1em;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+//Dark theme overrides
+.dark {
+  .dark-switcher {
+    background: $dark_neutral;
+    color: white;
+  }
+}
