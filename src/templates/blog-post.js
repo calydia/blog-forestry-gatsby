@@ -1,7 +1,8 @@
 import React from 'react';
 import { graphql } from 'gatsby';
-import Layout from '../components/layout';
 import Img from 'gatsby-image';
+import Layout from '../components/layout';
+import Info from '../components/Info';
 
 export default ({ data }) => {
   const post = data.markdownRemark;
@@ -15,6 +16,9 @@ export default ({ data }) => {
           <div dangerouslySetInnerHTML={{ __html: post.frontmatter.body }} />
         </div>
       </div>
+      <aside>
+        <Info />
+      </aside>
     </Layout>
   );
 };
