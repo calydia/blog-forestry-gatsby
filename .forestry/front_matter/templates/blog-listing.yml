@@ -16,10 +16,10 @@ fields:
     schema:
       format: markdown
   label: Body
-- name: listing_template
-  type: include
-  config: {}
-  template: listing
-  label: Listing template
-pages:
-- src/pages/listings/blog-listing-test.md
+- name: type
+  type: text
+  config:
+    required: false
+  label: Type
+  hidden: true
+  default: blog-listing
