@@ -6,29 +6,24 @@ module.exports = {
     siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
     menuLinks: [
       {
-        name: 'Work experience',
-        link: '/experience',
+        name: 'About',
+        link: '/about',
+        id: 'menu-1',
+      },
+      {
+        name: 'Cats',
+        link: '/cats',
         id: 'menu-2',
       },
       {
-        name: 'Skills and tools',
-        link: '/skills',
+        name: 'Life',
+        link: '/cats',
         id: 'menu-3',
       },
       {
-        name: 'Education',
-        link: '/education',
+        name: 'Tech',
+        link: '/cats',
         id: 'menu-4',
-      },
-      {
-        name: 'Projects',
-        link: '/projects',
-        id: 'menu-5',
-      },
-      {
-        name: 'About me',
-        link: '/about-me',
-        id: 'menu-6',
       },
     ],
   },

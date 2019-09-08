@@ -15,10 +15,11 @@ export default ({ data }) => {
           <h1>{post.frontmatter.title}</h1>
           <div dangerouslySetInnerHTML={{ __html: post.frontmatter.body }} />
         </div>
+
+        <aside className="sidebar">
+          <Info />
+        </aside>
       </div>
-      <aside>
-        <Info />
-      </aside>
     </Layout>
   );
 };

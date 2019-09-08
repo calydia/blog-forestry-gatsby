@@ -24,7 +24,7 @@ export default ({ data }) => {
             );
           })}
         </div>
-        <aside>
+        <aside className="sidebar">
           <Info />
         </aside>
       </div>

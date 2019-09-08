@@ -27,9 +27,9 @@ export default () => {
     data.markdownRemark.frontmatter.profile_image.childImageSharp.fluid;
 
   return (
-    <div className="my-info">
-      <Img fluid={profileImage} />
-      <div className="info-box">
+    <article className="info-box">
+      <div className="info-content">
+        <Img fluid={profileImage} />
         <span className="name">{data.markdownRemark.frontmatter.name}</span>
         <div
           dangerouslySetInnerHTML={{
@@ -37,6 +37,6 @@ export default () => {
           }}
         />
       </div>
-    </div>
+    </article>
   );
 };
