@@ -21,6 +21,11 @@ fields:
     schema:
       format: markdown
   label: Info
+- name: path
+  type: text
+  config:
+    required: false
+  label: Path
 - name: type
   type: text
   config:
