@@ -22,17 +22,11 @@ fields:
     schema:
       format: markdown
   label: Body
-- name: blog_post_listing
-  type: list
-  config:
-    use_select: true
-    min: 
-    max: 
-    source:
-      type: pages
-      section: posts
-  label: Blog post listing
-  description: Select the blog posts to display on this page
+- name: category
+  type: tag_list
+  default: []
+  label: Category
+  description: The category of this listing
 - name: type
   type: text
   config:
