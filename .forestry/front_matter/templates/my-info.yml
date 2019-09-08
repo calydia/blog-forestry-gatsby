@@ -21,5 +21,12 @@ fields:
     schema:
       format: markdown
   label: Info
+- name: type
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: Type
+  default: info
 pages:
 - src/pages/info/profile.md
