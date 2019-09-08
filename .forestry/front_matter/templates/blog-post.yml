@@ -43,3 +43,5 @@ fields:
   label: Type
   hidden: true
   default: blog-post
+pages:
+- src/pages/posts/test-post.md
