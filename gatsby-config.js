@@ -42,7 +42,7 @@ module.exports = {
           {
             resolve: 'gatsby-remark-normalize-paths',
             options: {
-              pathFields: ['main_image'],
+              pathFields: ['main_image', 'listing_image', 'profile_image'],
             },
           },
           `gatsby-remark-relative-images`,
@@ -70,9 +70,26 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: 'gatsby-plugin-web-font-loader',
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        google: {
+          families: ['Rock Salt'],
+        },
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-google-tagmanager',
+      options: {
+        id: 'GTM-NCHXMTX',
+
+        // Include GTM in development.
+        // Defaults to false meaning GTM will only be loaded in production.
+        includeInDevelopment: false,
+
+        // datalayer to be set before GTM is loaded
+        // should be an object or a function that is executed in the browser
+        // Defaults to null
+        defaultDataLayer: { platform: 'gatsby' },
       },
     },
     `gatsby-plugin-feed`,
