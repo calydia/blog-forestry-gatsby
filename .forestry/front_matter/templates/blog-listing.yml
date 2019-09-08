@@ -35,4 +35,5 @@ fields:
   hidden: true
   default: blog-listing
 pages:
+- src/pages/listings/life.md
 - src/pages/listings/tech.md
