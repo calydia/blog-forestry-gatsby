@@ -45,6 +45,7 @@ body: "<p>Lumia (FI*&nbsp;Tanssikatti&nbsp;Lumihiutale) is an 8-year-old brown S
   but they often play together and she sometimes washes Osiris' head if they are begging
   for food. And if Osiris doesn't see the signs when she wants him gone, she bites
   him in the neck. And Osiris just continues rubbing against her after she lets go.</p>"
-post_date: 2019-09-07T20:38:20+03:00
+post_date: 2019-09-07T17:38:20.000+00:00
+image_alt_text: My cat, Lumia
 
 ---
