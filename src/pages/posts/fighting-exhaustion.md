@@ -4,7 +4,7 @@ category:
 type: blog-post
 title: Fighting exhaustion and impostor syndrome
 path: "/life/fighting-exhaustion-and-impostor-syndrome"
-post_date: 2019-09-09T00:00:00+03:00
+post_date: 2019-09-08T21:00:00.000+00:00
 main_image: "/uploads/woman-back-thumb.jpg"
 listing_image: "/uploads/woman-back-thumb-1.jpg"
 body: <p>I've combated with exhaustion a few times now. I've only recently realised
@@ -98,5 +98,6 @@ body: <p>I've combated with exhaustion a few times now. I've only recently reali
   hope from now on my brain will listen to reason even if the situation gets worse.</p>
 photo_credits: Photo by [Volkan Olmez](https://unsplash.com/@volkanolmez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   on [Unsplash](https://unsplash.com/search/photos/exhaustion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+image_alt_text: A woman's back
 
 ---
