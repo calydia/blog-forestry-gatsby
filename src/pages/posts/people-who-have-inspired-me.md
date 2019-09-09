@@ -26,7 +26,7 @@ body: '<p>When I finally got my tech spark back and started activating on the te
   title="https://twitter.com/ASpittel">https://twitter.com/ASpittel</a> also spreads
   humour and tech.</p><p>Jason Lengstorf has an excellent series called Learn with
   Jason. He has people come on and they go through how to do things, for example,
-  on Gatsby. <a href="https://ladybug.dev/" title="https://ladybug.dev/">https://www.twitch.tv/jlengstorf</a>
+  with Gatsby. <a href="https://ladybug.dev/" title="https://ladybug.dev/">https://www.twitch.tv/jlengstorf</a>
   I also follow him on Twitter <a href="https://ladybug.dev/" title="https://ladybug.dev/">https://twitter.com/jlengstorf</a>
   . He has written an excellent blog post about being more positive <a href="https://lengstorf.com/how-to-be-positive/"
   title="https://lengstorf.com/how-to-be-positive/">https://lengstorf.com/how-to-be-positive/</a>,
@@ -41,8 +41,8 @@ body: '<p>When I finally got my tech spark back and started activating on the te
   style and they have several amazing hosts with a superb sense of humour.</p><p>If
   you have any people in mind who I should start following, please send me links at
   twitter! I want to get my Twitter filled with inspirational tech people to help
-  me stay motivated and involved in the newest technologies. Naturally I''m also interested
-  in inspirational people in general, not all has to be about tech.</p>'
+  me stay motivated and involved in the newest technologies. Any inspirational or
+  great personalities in general also apply here, not everything has to be about tech.</p>'
 photo_credits: Photo by [Jude Beck](https://unsplash.com/@judebeck?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   on [Unsplash](https://unsplash.com/t/textures-patterns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
