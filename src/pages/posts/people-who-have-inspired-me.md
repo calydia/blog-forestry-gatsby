@@ -5,8 +5,8 @@ type: blog-post
 title: People who have inspired me lately
 path: "/tech/people-who-have-inspired-me-lately"
 post_date: 2019-09-11T00:00:00+03:00
-main_image: ''
-listing_image: ''
+main_image: "/uploads/hearts-main.jpg"
+listing_image: "/uploads/hearts-thumbnail.jpg"
 body: '<p>When I finally got my tech spark back and started activating on the tech
   side of things, I also started to follow many people on Twitter. I thought I''d
   write this post about those people and where you can find them in case you want
