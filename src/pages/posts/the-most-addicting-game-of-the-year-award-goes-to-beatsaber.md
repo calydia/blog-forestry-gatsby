@@ -49,13 +49,12 @@ body: <p>Ever since I first saw the demos and YouTube videos of people playing t
   in the music and that they will keep making the game better and better. I do like
   the music styles in the game, though, so I have no complaints about the music.</p><p>I
   even ordered Oculus Quest prescription lens adapter so that I might be able to play
-  without my glasses. The package arrived to the post office today, I'll probably
-  get them tomorrow and try them out.</p><p>I mention in the title that the game is
-  addictive. After I first played the game, I woke up the next morning thinking about
-  when I could play the game again. The songs were playing in my head and I just wanted
-  to start moving my arms around. And this continued after I played the second time.
-  And the third time. I just fell in love with the game. I really recommend trying
-  it out if you have the gear for it. There is a free sample available.</p>
+  without my glasses.</p><p>I mention in the title that the game is addictive. After
+  I first played the game, I woke up the next morning thinking about when I could
+  play the game again. The songs were playing in my head and I just wanted to start
+  moving my arms around. And this continued after I played the second time. And the
+  third time. I just fell in love with the game. I really recommend trying it out
+  if you have the gear for it. There is a free sample available.</p>
 photo_credits: ''
 
 ---
