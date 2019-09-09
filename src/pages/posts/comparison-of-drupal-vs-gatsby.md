@@ -5,8 +5,8 @@ type: blog-post
 title: Comparison of my two portfolios
 path: "/tech/portfolio-comparison"
 post_date: 2019-09-10T00:00:00+03:00
-main_image: ''
-listing_image: ''
+main_image: "/uploads/drupal-gatsby-main.jpg"
+listing_image: "/uploads/drupal-gatsby-thumb.jpg"
 body: "<p>I created two versions of my portfolio. With the first one, I wanted to
   try out Gatsby for the first time. And at a tech meet up during the summer I heard
   people talking about having Drupal as a data source for Gatsby. As a Drupal developer,
