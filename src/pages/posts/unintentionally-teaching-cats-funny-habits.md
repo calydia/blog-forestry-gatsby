@@ -81,7 +81,7 @@ body: "<p>There have been a few occasions when I've noticed teaching something t
   without pressing the spacebar or something equally annoying. And then he looks accusingly
   at me from the floor when I pet Lumia. But seriously, why does he have to constantly
   sit on my spacebar? He does this especially if I'm reading something.</p><p>Lumia
-  likes to lie down between your keyboard and your screen. Which wouldn't be a problem
+  likes to lay down between your keyboard and your screen. Which wouldn't be a problem
   if she didn't start leaning on the keyboard. My fiancé printed a protector for his
   top-level keys but I haven't yet gotten mine. So she presses buttons. Mostly F10
   to F12. Which makes my browser will start behaving rather wild. I originally thought
