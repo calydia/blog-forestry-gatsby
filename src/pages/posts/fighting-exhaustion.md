@@ -5,8 +5,8 @@ type: blog-post
 title: Fighting exhaustion and impostor syndrome
 path: "/life/fighting-exhaustion-and-impostor-syndrome"
 post_date: 2019-09-09T00:00:00+03:00
-main_image: ''
-listing_image: ''
+main_image: "/uploads/woman-back-thumb.jpg"
+listing_image: "/uploads/woman-back-thumb-1.jpg"
 body: <p>I've combated with exhaustion a few times now. I've only recently realised
   that my impostor syndrome and my past affect the problem way more than I thought.</p><p>I've
   spent a lot of time this spring and summer thinking about exhaustion and impostor
