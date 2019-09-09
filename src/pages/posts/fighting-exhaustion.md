@@ -16,39 +16,40 @@ body: <p>I've combated with exhaustion a few times now. I've only recently&nbsp;
   it from getting worse or make things any easier. I try saying no to extra work,
   but then I often end up&nbsp;taking the offered work anyway because of reasons like
   "there's no one else" or "it just has to be done" or "we're all busy". I'm not saying
-  that those sentences aren't true, because they&nbsp;are. It just makes me feel like
-  I'm not being heard or being taken seriously. I used to think&nbsp;it was my fault
-  that the workload kept piling on, that maybe I wasn't fast enough or talented enough
-  because not everyone was at their breaking point. Thankfully I've&nbsp;realised&nbsp;that
-  those things have nothing to do with this. It's just my impostor syndrome talking
-  and some people have a more healthy point of view to work vs private life than I've
-  had. I've always put the company and its clients above my wellbeing. And that mistake
-  is mine alone.</p><p>One seemingly harmless behaviour of mine is that I pretty much
-  always cancel my plans if someone wants to have a meeting at an inconvenient time.
-  This, at first, seems like it doesn't matter, it's only one time. But then it happens
-  again and again and again. It becomes a pattern, and&nbsp;it disrupts my personal
-  life more than you'd think. I haven't taken this behaviour as seriously as I should
-  have done a long time ago.</p><p>When the deadlines&nbsp;close&nbsp;in, I usually
-  start working longer days automatically&nbsp;to try&nbsp;to somehow get everything
-  done. This ultimately leads to a situation where I don't have time or the energy
-  to exercise or&nbsp;do anything else either. For example, my fiancé was telling
-  me all spring that it's weird and a shame that I don't teach myself anything new
-  or do anything tech-related in my spare time anymore. And the only answer I could
-  give was that I just don't have the energy for it. And we've had the similar conversations
-  before, this wasn't the first time I've driven myself to exhaustion.</p><p>But even
-  so,&nbsp;when I&nbsp;see the symptoms happening, I don't think it will end up as
-  bad as the previous time or I just dismiss it because things need to get done whatever
-  it takes. I haven't taken this issue seriously&nbsp;enough. Maybe if I finally start
-  taking this as seriously as I should, I can affect my workload better, too. Nobody
-  at the workplace wants things to get as bad for me as they've gotten this spring,
-  I'm sure of it. So maybe if I&nbsp;take&nbsp;the first symptoms seriously myself,
-  other people will too. And maybe then I can ask for help a little sooner, it would
-  be nice to get help before things go too far.</p><h2>The revelation I had about
-  things this spring</h2><p>I visited a rival company this spring, or I suppose it
-  was summer. I talked to a developer who said that he would feel sad if he wouldn't
-  be able to concentrate on a site or a task for a longer&nbsp;period of&nbsp;time.
-  He wouldn't want&nbsp;to&nbsp;work on several projects in one day. That's when I
-  first&nbsp;realised&nbsp;that I&nbsp;actually&nbsp;felt the same way.&nbsp;That&nbsp;I
+  that those sentences aren't true, because they&nbsp;are. I've noticed that there
+  basically always is someone who is at least almost at their breaking point. Those
+  sentences just make me feel like I'm not being heard or being taken seriously. I
+  used to think&nbsp;it was my fault that the workload kept piling on, that maybe
+  I wasn't fast enough or talented enough because not everyone was at their breaking
+  point. Thankfully I've&nbsp;realised&nbsp;that those things have nothing to do with
+  this. It's just my impostor syndrome talking and some people have a more healthy
+  point of view to work vs private life than I've had. I've always put the company
+  and its clients above my wellbeing. And that mistake is mine alone.</p><p>One seemingly
+  harmless behaviour of mine is that I pretty much always cancel my plans if someone
+  wants to have a meeting at an inconvenient time. This, at first, seems like it doesn't
+  matter, it's only one time. But then it happens again and again and again. It becomes
+  a pattern, and&nbsp;it disrupts my personal life more than you'd think. I haven't
+  taken this behaviour as seriously as I should have done a long time ago.</p><p>When
+  the deadlines&nbsp;close&nbsp;in, I usually start working longer days automatically&nbsp;to
+  try&nbsp;to somehow get everything done. This ultimately leads to a situation where
+  I don't have time or the energy to exercise or&nbsp;do anything else either. For
+  example, my fiancé was telling me all spring that it's weird and a shame that I
+  don't teach myself anything new or do anything tech-related in my spare time anymore.
+  And the only answer I could give was that I just don't have the energy for it. And
+  we've had the similar conversations before, this wasn't the first time I've driven
+  myself to exhaustion.</p><p>But even so,&nbsp;when I&nbsp;see the symptoms happening,
+  I don't think it will end up as bad as the previous time or I just dismiss it because
+  things need to get done whatever it takes. I haven't taken this issue seriously&nbsp;enough.
+  Maybe if I finally start taking this as seriously as I should, I can affect my workload
+  better, too. Nobody at the workplace wants things to get as bad for me as they've
+  gotten this spring, I'm sure of it. So maybe if I&nbsp;take&nbsp;the first symptoms
+  seriously myself, other people will too. And maybe then I can ask for help a little
+  sooner, it would be nice to get help before things go too far.</p><h2>The revelation
+  I had about things this spring</h2><p>I visited a rival company this spring, or
+  I suppose it was summer. I talked to a developer who said that he would feel sad
+  if he wouldn't be able to concentrate on a site or a task for a longer&nbsp;period
+  of&nbsp;time. He wouldn't want&nbsp;to&nbsp;work on several projects in one day.
+  That's when I first&nbsp;realised&nbsp;that I&nbsp;actually&nbsp;felt the same way.&nbsp;That&nbsp;I
   had&nbsp;to hop&nbsp;between projects (maybe not even getting to work two hours
   on each) was one&nbsp;reason&nbsp;I felt the workload so badly.&nbsp;At that time
   I&nbsp;put my foot down and told my project managers that the two projects they
