@@ -29,30 +29,30 @@ body: <p>I've combated with exhaustion a few times now. I've only recently reali
   an inconvenient time. This, at first, seems like it doesn't matter, it's only one
   time. But then it happens again and again and again. It becomes a pattern, and it
   disrupts my personal life more than you'd think. I haven't taken this behaviour
-  as seriously as I should have done a long time ago.</p><p>When the deadlines close
-  in, I usually start working longer days automatically to try to somehow get everything
-  done. This ultimately leads to a situation where I don't have time or the energy
-  to exercise or do anything else either. For example, my fiancé was telling me all
-  spring that it's weird and a shame that I don't teach myself anything new or do
-  anything tech-related in my spare time anymore. And the only answer I could give
-  was that I just don't have the energy for it. And we've had the similar conversations
-  before, this wasn't the first time I've driven myself to exhaustion.</p><p>But even
-  so, when I see the symptoms happening, I don't think it will end up as bad as the
-  previous time or I just dismiss it because things need to get done whatever it takes.
-  I haven't taken this issue seriously enough. Maybe if I finally start taking this
-  as seriously as I should, I can affect my workload better, too. Nobody at the workplace
-  wants things to get as bad for me as they've gotten this spring, I'm sure of it.
-  So maybe if I take the first symptoms seriously myself, other people will too. And
-  maybe then I can ask for help a little sooner, it would be nice to get help before
-  things go too far.</p><h2>The revelation I had about things this spring</h2><p>I
-  visited a rival company this spring, or I suppose it was summer. I talked to a developer
-  who said that he would feel sad if he wouldn't be able to concentrate on a site
-  or a task for a longer period of time. He wouldn't want to work on several projects
-  in one day. That's when I first realised that I actually felt the same way. That
-  I had to hop between projects (maybe not even getting to work two hours on each)
-  was one reason I felt the workload so badly. At that time I put my foot down and
-  told my project managers that the two projects they had me working at the same time
-  would have to be split into days or weeks for each and that I wouldn't be even discussing
+  as seriously as I should have. Better late than never, I suppose.</p><p>When the
+  deadlines close in, I usually start working longer days automatically to try to
+  somehow get everything done. This ultimately leads to a situation where I don't
+  have time or the energy to exercise or do anything else either. For example, my
+  fiancé was telling me all spring that it's weird and a shame that I don't teach
+  myself anything new or do anything tech-related in my spare time anymore. And the
+  only answer I could give was that I just don't have the energy for it. And we've
+  had the similar conversations before, this wasn't the first time I've driven myself
+  to exhaustion.</p><p>But even so, when I see the symptoms happening, I don't think
+  it will end up as bad as the previous time or I just dismiss it because things need
+  to get done whatever it takes. I haven't taken this issue seriously enough. Maybe
+  if I finally start taking this as seriously as I should, I can affect my workload
+  better, too. Nobody at the workplace wants things to get as bad for me as they've
+  gotten this spring, I'm sure of it. So maybe if I take the first symptoms seriously
+  myself, other people will too. And maybe then I can ask for help a little sooner,
+  it would be nice to get help before things go too far.</p><h2>The revelation I had
+  about things this spring</h2><p>I talked to a developer from another company who
+  said that he would feel sad if he wouldn't be able to concentrate on a site or a
+  task for a longer period of time. He wouldn't want to work on several projects in
+  one day. That's when I first realised that I actually felt the same way. That I
+  had to hop between projects (maybe not even getting to work two hours on each) was
+  one reason I felt the workload so badly. At that time I put my foot down and told
+  my project managers that the two projects they had me working at the same time would
+  have to be split into days or weeks for each and that I wouldn't be even discussing
   the other project while I was working on the other. And they were fine with it.
   And I noticed that it was a lot easier to get things properly done when I could
   concentrate on what I was doing and not constantly being interrupted mid-thought.
@@ -95,8 +95,8 @@ body: <p>I've combated with exhaustion a few times now. I've only recently reali
   almost ten years now. I think it's finally time that I convince myself that I'm
   good enough, I have value and I deserve to be in the position I'm in. On the good
   days, I know this. But when things got dark, my brain convinced me otherwise. I
-  hope from now on my brain will listen to reason even if the situation gets worse.</p><p></p><p>Photo
-  by <a href="https://unsplash.com/@volkanolmez?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Volkan
-  Olmez</a> on <a href="https://unsplash.com/search/photos/exhaustion?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+  hope from now on my brain will listen to reason even if the situation gets worse.</p>
+photo_credits: Photo by [Volkan Olmez](https://unsplash.com/@volkanolmez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  on [Unsplash](https://unsplash.com/search/photos/exhaustion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ---

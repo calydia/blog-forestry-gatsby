@@ -4,6 +4,6 @@ category:
 type: blog-listing
 title: Life
 path: "/life"
-body: "<p>Stories about life related stuff</p>"
+body: "<p>Mental health, games, whatever life throws at you.</p>"
 
 ---
