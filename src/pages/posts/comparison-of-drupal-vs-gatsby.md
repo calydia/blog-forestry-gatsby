@@ -35,5 +35,6 @@ body: "<p>I created two versions of my portfolio. With the first one, I wanted t
   So good job on the hosting side of things. The site is pretty simple, though, so
   it doesn't offer as much challenge as the sites I build at work.</p>"
 photo_credits: ''
+image_alt_text: Drupal 8 and Gatsby logos
 
 ---
