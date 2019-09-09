@@ -7,5 +7,6 @@ info: "<p>I'm a developer by profession. So basically I like to code.</p><p>I've
   two cats.</p>"
 type: info
 path: "/about-me"
+image_alt_text: Portrait of me
 
 ---
