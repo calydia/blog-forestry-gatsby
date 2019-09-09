@@ -15,8 +15,11 @@ body: "<p>Osiris (Fi*Neaera's Finian Fahd) is an 8-year-old beige Abyssinian. He
   is the most loving cat I've ever had. He would probably like to have a cat friend
   he could love and lay on top of, but unfortunately, our Lumia doesn't want love
   from him.</p><p>Osiris also likes to take part in almost all the activities happening
-  in our apartment. You can only do stuff without help when he is asleep.</p><p>One
+  in our apartment. You can only do&nbsp;stuff without help when he is asleep.</p><p>One
   of his pet peeves is closed doors, only the front door and the balcony door may
-  remain closed. If someone closes a door, he will soon open it and complain.</p>"
+  remain closed. If someone closes a door, he will soon open it and complain.</p><p>Osiris
+  loves food. He always runs to the kitchen if we go there. Just to see if he could
+  get something to eat.</p><p>He has suffered of FORL for many years, and because
+  of it he has only a few teeth remaining. Which makes him even cuter.</p>"
 
 ---
