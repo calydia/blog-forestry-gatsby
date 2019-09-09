@@ -7,6 +7,12 @@ fields:
   config:
     maxSize: 250
   label: Profile image
+- name: image_alt_text
+  type: text
+  config:
+    required: false
+  label: Image alt text
+  description: Alt text for the image
 - name: name
   type: text
   config:
