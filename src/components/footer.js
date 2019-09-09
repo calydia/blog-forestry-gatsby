@@ -5,7 +5,7 @@ export default () => {
   return (
     <footer className="main-footer">
       <div className="footer-content">
-        <a href="#">Sanna Mäkinen</a>
+        <a href="https://sanna.ninja">Sanna Mäkinen</a>
       </div>
     </footer>
   );
