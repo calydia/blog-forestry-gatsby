@@ -4,7 +4,7 @@ category:
 type: blog-post
 title: People who have inspired me lately
 path: "/tech/people-who-have-inspired-me-lately"
-post_date: 2019-09-11T00:00:00+03:00
+post_date: 2019-09-10T21:00:00.000+00:00
 main_image: "/uploads/hearts-main.jpg"
 listing_image: "/uploads/hearts-thumbnail.jpg"
 body: '<p>When I finally got my tech spark back and started activating on the tech
@@ -48,5 +48,6 @@ body: '<p>When I finally got my tech spark back and started activating on the te
   great personalities in general also apply here, not everything has to be about tech.</p>'
 photo_credits: Photo by [Jude Beck](https://unsplash.com/@judebeck?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   on [Unsplash](https://unsplash.com/t/textures-patterns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+image_alt_text: Hearts
 
 ---
