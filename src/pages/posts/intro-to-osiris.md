@@ -26,5 +26,7 @@ body: <p>Osiris (Fi*Neaera's Finian Fahd) is an 8-year-old beige Abyssinian. He 
   kitchen if we go there. Just to see if he could get something to eat.</p><p>He has
   suffered from FORL for many years, and because of it, he has only a few teeth remaining.
   Which makes him even cuter.</p>
+image_alt_text: My cat, Osiris
+photo_credits: ''
 
 ---
