@@ -11,5 +11,6 @@ body: "<p>The original purpose of this site was just to create a Gatsby site wit
   things relating to mental health and other stuff related to life in general. I don't
   really know yet.</p><p>And the tech section might some day contain some more technical
   stuff.</p>"
+image_alt_text: Lumia and Osiris sleeping
 
 ---
