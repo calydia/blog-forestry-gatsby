@@ -13,26 +13,26 @@ body: <p>Ever since I first saw the demos and YouTube videos of people playing t
   movement to my arms and shoulders. I'd been thinking about starting up tennis or
   badminton but I never came around to it. But this game works as a great substitute.</p><p>If
   you don't know what I'm talking about, check out the <a href=" https://beatsaber.com/"
-  title="">Beat Saber website</a>. You can also search for BeatSaber on YouTube, there
-  are tons of videos of people playing the game. Some are on such a skill level where
-  I just stare at them with my mouth open.</p><p>I love dancing, singing and gaming
-  so this game pretty much combines them all for me. Of course, my singing and dancing
-  don't have anything to do with the gameplay itself but I find myself having so much
-  fun that I start doing both of those almost immediately.</p><p>The game is super
-  fun and it also gives you a decent cardio workout, of course it all depends on the
-  intensity you play the game with.</p><p>The game just got a free update with new
-  songs, but I haven't yet had time to test it. I did install it today though, so
-  maybe since this is my last summer holiday week, I could spend the rest of the week
-  having fun with the new songs and features they launched.</p><p>I play the game
-  with Oculus Quest, which we purchased earlier this summer. I wish my play area was
-  a bit wider, the area is a bit less than what is recommended. But if I don't go
-  totally berserk, the area is quite alright.</p><p>One of the biggest problems with
-  me playing the game is, of course, the cats of the house. They want to participate,
+  title="">Beat Saber website</a>. You can also search for Beat Saber on YouTube,
+  there are tons of videos of people playing the game. Some are on such a skill level
+  where I just stare at them with my mouth open.</p><p>I love dancing, singing and
+  gaming so this game pretty much combines them all for me. Of course, my singing
+  and dancing don't have anything to do with the gameplay itself but I find myself
+  having so much fun that I start doing both of those almost immediately.</p><p>The
+  game is super fun and it also gives you a decent cardio workout, of course it all
+  depends on the intensity you play the game with.</p><p>The game just got a free
+  update with new songs, but I haven't yet had time to test it. I did install it today
+  though, so maybe since this is my last summer holiday week, I could spend the rest
+  of the week having fun with the new songs and features they launched.</p><p>I play
+  the game with Oculus Quest, which we purchased earlier this summer. I wish my play
+  area was a bit wider, the area is a bit less than what is recommended. But if I
+  don't go totally berserk, the area is quite alright.</p><p>One of the biggest problems
+  with me playing the game is, of course, the cats of the house. They want to participate,
   which means that one or both will come lay on my feet or next to my feet. I can
   still play, but I do need to be a bit careful so I won't step on them or kick them.
   My fiancé hasn't tried the game yet, so we don't know how much participation he
   gets from the cats, but I do think that the cats participate more with me.</p><p>I
-  like that BeatSaber has a campaign with different kinds of challenges. It helps
+  like that Beat Saber has a campaign with different kinds of challenges. It helps
   keep the game more interesting. You can add those challenge types to any songs in
   the game yourself too. It's also great that the game has several difficulty levels.
   It helps people with different skill levels or physical shape to be able to play
