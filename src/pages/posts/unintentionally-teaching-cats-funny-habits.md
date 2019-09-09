@@ -5,8 +5,8 @@ type: blog-post
 title: Unintentionally teaching cats funny habits
 path: "/cats/unintentionally-teaching-cats-funny-habits"
 post_date: 2019-09-10T00:00:00+03:00
-main_image: ''
-listing_image: ''
+main_image: "/uploads/lumia-on-my-keyboard-main.jpg"
+listing_image: "/uploads/lumia-on-my-keyboard-thumb.jpg"
 body: "<p>There have been a few occasions when I've noticed teaching something to
   my cats that weren't really our intention.</p><p>Lumia loves both minced meat and
   treats(they love frozen dried chicken). But sometimes she doesn't want to bother
