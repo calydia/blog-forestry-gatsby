@@ -79,48 +79,49 @@ body: "<p>There have been a few occasions when I've noticed teaching something t
   keyboard. Which is why I let her sit there and might even pet her. This usually
   happens after I've shooed Osiris away from my keyboard. Because he just cannot sit
   without pressing the spacebar or something equally annoying. And then he looks accusingly
-  at me from the floor when I pet Lumia.</p><p>Lumia likes to lie down between your
-  keyboard and your screen. Which wouldn't be a problem if she didn't start leaning
-  on the keyboard. My fiancé printed a protector for his top-level keys but I haven't
-  yet gotten mine. So she presses buttons. Mostly F10 to F12. Which makes my browser
-  will start behaving rather wild. I originally thought she didn't do this on purpose
-  but once or twice I have given her more space and she couldn't lean on the keys
-  anymore. And then I heard a snort. So this lady is doing this on purpose after all!</p><h2>Habits
-  that they've taught each other or they've picked up on their own</h2><p>Lumia has
-  always liked to bite toilet brushes. I suppose she uses them to brush her teeth.
-  She doesn't eat dry food at all so she doesn't have many tools at her disposal.
-  She does also like to press her teeth through some packing materials that seem to
-  feel nice against her teeth. But back to the toilet brushes. Disgusting habit, right?
-  We've always had to have the brush that we used locked up in a closet because I
-  wouldn't want her biting into whatever horrible things the toilet brush collects.
-  I once noticed that Stockmann was selling a toilet brush with a rather tall porcelain
-  container. We went to pick it up and the saleswoman suggested that why not give
-  her her own toilet brush after we told her Lumia's story. We ended up giving Lumia
-  the previously purchased unused toilet brush and she's still occasionally biting
-  it. We thought that the previous purchase we had made had had a container big enough
-  to prevent her from taking the brush and we even put obstacles in her way. Apparently
-  she thought of them as a challenge and she had fetched that brush in a matter of
-  hours. So nowadays there is a random toilet brush on the floor. We wash her brush
-  from time to time to make sure it doesn't get too dusty. But that toilet brush with
-  the porcelain container has been a success, she cannot get to the brush even if
-  she tries to.</p><p>Lumia sometimes is seen lying on her back with her front paws
-  cutely on her chest. She seems to be wanting something when she does this. But what's
-  funny about this habit is that she doesn't say anything so we don't know when she
-  does this. We just, at some point, notice that there she is again. This habit is
-  something that Osiris has learned from Lumia, though he doesn't go fully on his
-  back, more on his side. He usually does this when he just wants some pets. Both
-  are super cute when they do this.</p><p>Osiris has learned that it's smart to not
-  start eating straight away. He always checks if Lumia will start eating. For some
-  reason, he seems to think that if Lumia won't eat, they will get something better.
-  Yeah, they eventually will, but it will take hours because we don't like wasting
-  food. Their eating habits are also quite different. Lumia most often takes a few
-  bites and comes back to take a few bites a bit later. Osiris eats as much as he
-  will eat, he starts eating from his cup and after Lumia first leaves, he will switch
-  to her cup to eat all the jellies or sauces. So he basically sucks the meat pieces
-  and puts them back. Osiris also usually doesn't want to touch the old food after
-  an hour or two maximum, he switches to his dry food at that point. Lumia, on the
-  other hand, will eat the foods even if they've been in the cups for a bit longer.
-  And she doesn't touch any dry foods, she hates them.</p>"
+  at me from the floor when I pet Lumia. But seriously, why does he have to constantly
+  sit on my spacebar? He does this especially if I'm reading something.</p><p>Lumia
+  likes to lie down between your keyboard and your screen. Which wouldn't be a problem
+  if she didn't start leaning on the keyboard. My fiancé printed a protector for his
+  top-level keys but I haven't yet gotten mine. So she presses buttons. Mostly F10
+  to F12. Which makes my browser will start behaving rather wild. I originally thought
+  she didn't do this on purpose but once or twice I have given her more space and
+  she couldn't lean on the keys anymore. And then I heard a snort. So this lady is
+  doing this on purpose after all!</p><h2>Habits that they've taught each other or
+  they've picked up on their own</h2><p>Lumia has always liked to bite toilet brushes.
+  I suppose she uses them to brush her teeth. She doesn't eat dry food at all so she
+  doesn't have many tools at her disposal. She does also like to press her teeth through
+  some packing materials that seem to feel nice against her teeth. But back to the
+  toilet brushes. Disgusting habit, right? We've always had to have the brush that
+  we used locked up in a closet because I wouldn't want her biting into whatever horrible
+  things the toilet brush collects. I once noticed that Stockmann was selling a toilet
+  brush with a rather tall porcelain container. We went to pick it up and the saleswoman
+  suggested that why not give her her own toilet brush after we told her Lumia's story.
+  We ended up giving Lumia the previously purchased unused toilet brush and she's
+  still occasionally biting it. We thought that the previous purchase we had made
+  had had a container big enough to prevent her from taking the brush and we even
+  put obstacles in her way. Apparently she thought of them as a challenge and she
+  had fetched that brush in a matter of hours. So nowadays there is a random toilet
+  brush on the floor. We wash her brush from time to time to make sure it doesn't
+  get too dusty. But that toilet brush with the porcelain container has been a success,
+  she cannot get to the brush even if she tries to.</p><p>Lumia sometimes is seen
+  lying on her back with her front paws cutely on her chest. She seems to be wanting
+  something when she does this. But what's funny about this habit is that she doesn't
+  say anything so we don't know when she does this. We just, at some point, notice
+  that there she is again. This habit is something that Osiris has learned from Lumia,
+  though he doesn't go fully on his back, more on his side. He usually does this when
+  he just wants some pets. Both are super cute when they do this.</p><p>Osiris has
+  learned that it's smart to not start eating straight away. He always checks if Lumia
+  will start eating. For some reason, he seems to think that if Lumia won't eat, they
+  will get something better. Yeah, they eventually will, but it will take hours because
+  we don't like wasting food. Their eating habits are also quite different. Lumia
+  most often takes a few bites and comes back to take a few bites a bit later. Osiris
+  eats as much as he will eat, he starts eating from his cup and after Lumia first
+  leaves, he will switch to her cup to eat all the jellies or sauces. So he basically
+  sucks the meat pieces and puts them back. Osiris also usually doesn't want to touch
+  the old food after an hour or two maximum, he switches to his dry food at that point.
+  Lumia, on the other hand, will eat the foods even if they've been in the cups for
+  a bit longer. And she doesn't touch any dry foods, she hates them.</p>"
 image_alt_text: My cat, Lumia, pressing my keyboard buttons
 photo_credits: ''
 
