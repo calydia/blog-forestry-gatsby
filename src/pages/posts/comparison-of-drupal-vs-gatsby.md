@@ -27,12 +27,13 @@ body: "<p>I created two versions of my portfolio. With the first one, I wanted t
   Drupal site were mostly because of PHP. I had originally planned to set up the Gatsby
   version on Netlify, but he suggested it could coexist with the Drupal site. That
   way I could also better see the differences in the sites' speed and all those juicy
-  bits. It was a good idea so that became the plan.</p><p>The Lighthouse audit results
-  on my local machine have huge differences in performance. The Drupal version got
-  37 (mobile) and 38 (desktop) on perfomance while the Gatsby version 100 on both.
-  The Drupal is running with Docker4Drupal setup.</p><p>On the server the Drupal version
-  got 98 (mobile) and 100 (desktop) points in performance. So good job on the hosting
-  side of things.</p>"
+  bits. It was a good idea so that became the plan. The Drupal is hosted with Kubernetes.</p><p>The
+  Lighthouse audit results on my local machine have huge differences in performance.
+  The Drupal version got 37 (mobile) and 38 (desktop) on perfomance while the Gatsby
+  version 100 on both. The Drupal is running with Docker4Drupal setup.</p><p>On the
+  server the Drupal version got 98 (mobile) and 100 (desktop) points in performance.
+  So good job on the hosting side of things. The site is pretty simple, though, so
+  it doesn't offer as much challenge as the sites I build at work.</p>"
 photo_credits: ''
 
 ---
