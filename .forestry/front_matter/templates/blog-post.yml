@@ -53,7 +53,7 @@ fields:
   hidden: true
   default: blog-post
 pages:
-- src/pages/posts/comparison-of-drupal-vs-gatsby.md
 - src/pages/posts/fighting-exhaustion.md
+- src/pages/posts/comparison-of-drupal-vs-gatsby.md
 - src/pages/posts/unintentionally-teaching-cats-funny-habits.md
 - src/pages/posts/intro-to-osiris.md
