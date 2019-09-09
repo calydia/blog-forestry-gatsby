@@ -86,8 +86,8 @@ body: "<p>There have been a few occasions when I've noticed teaching something t
   will start behaving rather wild. I originally thought she didn't do this on purpose
   but once or twice I have given her more space and she couldn't lean on the keys
   anymore. And then I heard a snort. So this lady is doing this on purpose after all!</p><h2>Habits
-  that they've taught each other or they've picked up&nbsp;on their own</h2><p>Lumia
-  has always liked to bite toilet brushes. I suppose she uses them to brush her teeth.
+  that they've taught each other or they've picked up on their own</h2><p>Lumia has
+  always liked to bite toilet brushes. I suppose she uses them to brush her teeth.
   She doesn't eat dry food at all so she doesn't have many tools at her disposal.
   She does also like to press her teeth through some packing materials that seem to
   feel nice against her teeth. But back to the toilet brushes. Disgusting habit, right?
@@ -112,14 +112,15 @@ body: "<p>There have been a few occasions when I've noticed teaching something t
   are super cute when they do this.</p><p>Osiris has learned that it's smart to not
   start eating straight away. He always checks if Lumia will start eating. For some
   reason, he seems to think that if Lumia won't eat, they will get something better.
-  Yeah, they will, but it will take hours because we don't like wasting food. Their
-  eating habits are also quite different. Lumia most often takes a few bites and comes
-  back to take a few bites a bit later. Osiris eats as much as he will eat, he starts
-  eating from his cup and after Lumia first leaves, he will switch to her cup to eat
-  all the jellies or sauces. So he basically sucks the meat pieces and puts them back.
-  Osiris also usually doesn't want to touch the old food after an hour or two maximum.
-  Lumia, on the other hand, will eat the foods even if they've been in the cups for
-  a bit longer.</p>"
+  Yeah, they eventually will, but it will take hours because we don't like wasting
+  food. Their eating habits are also quite different. Lumia most often takes a few
+  bites and comes back to take a few bites a bit later. Osiris eats as much as he
+  will eat, he starts eating from his cup and after Lumia first leaves, he will switch
+  to her cup to eat all the jellies or sauces. So he basically sucks the meat pieces
+  and puts them back. Osiris also usually doesn't want to touch the old food after
+  an hour or two maximum, he switches to his dry food at that point. Lumia, on the
+  other hand, will eat the foods even if they've been in the cups for a bit longer.
+  And she doesn't touch any dry foods, she hates them.</p>"
 image_alt_text: My cat, Lumia, pressing my keyboard buttons
 photo_credits: ''
 
