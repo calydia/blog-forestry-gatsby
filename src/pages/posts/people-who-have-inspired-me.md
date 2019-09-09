@@ -43,6 +43,7 @@ body: '<p>When I finally got my tech spark back and started activating on the te
   twitter! I want to get my Twitter filled with inspirational tech people to help
   me stay motivated and involved in the newest technologies. Naturally I''m also interested
   in inspirational people in general, not all has to be about tech.</p>'
-photo_credits: ''
+photo_credits: Photo by [Jude Beck](https://unsplash.com/@judebeck?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  on [Unsplash](https://unsplash.com/t/textures-patterns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ---
