@@ -56,5 +56,6 @@ body: <p>Ever since I first saw the demos and YouTube videos of people playing t
   third time. I just fell in love with the game. I really recommend trying it out
   if you have the gear for it. There is a free sample available.</p>
 photo_credits: ''
+image_alt_text: Beat Saber visuals
 
 ---
