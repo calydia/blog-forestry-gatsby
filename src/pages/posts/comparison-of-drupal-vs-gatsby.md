@@ -30,7 +30,8 @@ body: "<p>I created two versions of my portfolio. With the first one, I wanted t
   bits. It was a good idea so that became the plan.</p><p>The Lighthouse audit results
   on my local machine have huge differences in performance. The Drupal version got
   37(mobile) and 38(desktop) on perfomance while the Gatsby version 100 on both. The
-  Drupal is running with Docker4Drupal setup.</p>"
+  Drupal is running with Docker4Drupal setup.</p><p>On the server the Drupal version
+  got 100 points in performance. So good job on the hosting side of things.</p>"
 photo_credits: ''
 
 ---
