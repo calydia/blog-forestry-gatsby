@@ -95,8 +95,8 @@ body: <p>I've combated with exhaustion a few times now. I've only recently reali
   almost ten years now. I think it's finally time that I convince myself that I'm
   good enough, I have value and I deserve to be in the position I'm in. On the good
   days, I know this. But when things got dark, my brain convinced me otherwise. I
-  hope from now on my brain will listen to reason even if the situation gets worse.</p><p></p><p>Photo
-  by <a href="https://unsplash.com/@volkanolmez?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Volkan
-  Olmez</a> on <a href="https://unsplash.com/search/photos/exhaustion?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></p>
+  hope from now on my brain will listen to reason even if the situation gets worse.</p>
+photo_credits: Photo by [Volkan Olmez](https://unsplash.com/@volkanolmez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  on [Unsplash](https://unsplash.com/search/photos/exhaustion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 ---
