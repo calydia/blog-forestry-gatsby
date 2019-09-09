@@ -4,9 +4,9 @@ category:
 type: blog-post
 title: The most addicting game of the year award goes to BeatSaber
 path: "/life/beat-saber"
-post_date: 2019-09-12T00:00:00+03:00
-main_image: ''
-listing_image: ''
+post_date: 2019-09-11T21:00:00.000+00:00
+main_image: "/uploads/beat-saber-main.jpg"
+listing_image: "/uploads/beat-saber-thumb.jpg"
 body: <p>Ever since I first saw the demos and YouTube videos of people playing the
   game, I knew I had to have it at some point. As an office worker with hobbies revolving
   around sitting on a computer, I knew I needed to start giving more specifically
