@@ -62,6 +62,7 @@ fields:
       format: markdown
   label: Photo credits
 pages:
+- src/pages/posts/people-who-have-inspired-me.md
 - src/pages/posts/fighting-exhaustion.md
 - src/pages/posts/comparison-of-drupal-vs-gatsby.md
 - src/pages/posts/unintentionally-teaching-cats-funny-habits.md
