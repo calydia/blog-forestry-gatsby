@@ -4,7 +4,7 @@ category:
 type: blog-post
 title: Unintentionally teaching cats funny habits
 path: "/cats/unintentionally-teaching-cats-funny-habits"
-post_date: 2019-09-10T00:00:00+03:00
+post_date: 2019-09-09T21:00:00.000+00:00
 main_image: "/uploads/lumia-on-my-keyboard-main.jpg"
 listing_image: "/uploads/lumia-on-my-keyboard-thumb.jpg"
 body: "<p>There have been a few occasions when I've noticed teaching something to
@@ -120,5 +120,7 @@ body: "<p>There have been a few occasions when I've noticed teaching something t
   Osiris also usually doesn't want to touch the old food after an hour or two maximum.
   Lumia, on the other hand, will eat the foods even if they've been in the cups for
   a bit longer.</p>"
+image_alt_text: My cat, Lumia, pressing my keyboard buttons
+photo_credits: ''
 
 ---
