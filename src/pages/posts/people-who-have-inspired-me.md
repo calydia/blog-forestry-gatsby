@@ -35,7 +35,10 @@ body: '<p>When I finally got my tech spark back and started activating on the te
   title="https://twitter.com/laurieontech">https://twitter.com/laurieontech</a> from
   one of Jason''s Learn with Jason episodes. She was such a fun person and her Twitter
   is filled with articles she''s posted (she has a ton of stuff directed at newbies,
-  which I think is awesome!) and all kinds of other tech-related things. </p><p>On
+  which I think is awesome!) and all kinds of other tech-related things.</p><p>Sarah
+  Drasner <a href="https://twitter.com/sarah_edo" title="https://twitter.com/sarah_edo">https://twitter.com/sarah_edo</a>
+  has written a post about how to start contributing to open source project <a href="https://css-tricks.com/how-to-contribute-to-an-open-source-project/"
+  title="https://css-tricks.com/how-to-contribute-to-an-open-source-project/">https://css-tricks.com/how-to-contribute-to-an-open-source-project/</a></p><p>On
   a company level I follow Linus Tech Tips <a href="https://twitter.com/LinusTech"
   title="https://twitter.com/LinusTech">https://twitter.com/LinusTech</a> I like their
   style and they have several amazing hosts with a superb sense of humour.</p><p>If
