@@ -54,12 +54,12 @@ body: <p>I've combated with exhaustion a few times now. I've only recently&nbsp;
   I&nbsp;put my foot down and told my project managers that the two projects they
   had me working at the same time would have to be split into days or weeks for each
   and that I wouldn't be even discussing the other project while I was working on
-  the other. And they were ok with it. And I noticed that it was a lot easier to get
-  things properly done when I could&nbsp;concentrate on what I was doing and not constantly
-  being interrupted mid-thought.&nbsp;The&nbsp;best way for me would have been to
-  do one&nbsp;project&nbsp;first and then move on to the next. But this weekly split
-  was an&nbsp;ok&nbsp;solution. I'm definitely keeping this system up from now on.
-  But if I hadn't had this discussion, I probably wouldn't have&nbsp;realised&nbsp;that
+  the other. And they were fine with it. And I noticed that it was a lot easier to
+  get things properly done when I could&nbsp;concentrate on what I was doing and not
+  constantly being interrupted mid-thought.&nbsp;The&nbsp;best way for me would have
+  been to do one&nbsp;project&nbsp;first and then move on to the next. But this weekly
+  split was an&nbsp;ok&nbsp;solution. I'm definitely keeping this system up from now
+  on. But if I hadn't had this discussion, I probably wouldn't have&nbsp;realised&nbsp;that
   this was even something I needed.</p><p>I've recently read and heard more and more
   about impostor syndrome. Before I just thought it was me that was thinking&nbsp;this
   way. It was&nbsp;kind&nbsp;of relieving to see many talented and smart people saying
