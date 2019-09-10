@@ -36,21 +36,52 @@ body {
 
 .blog-content {
   background: white;
-  padding: 3em;
-  margin-top: 75px;
+  padding: 1.5em;
+  margin-top: 2em;
   max-width: 1000px;
-  width: calc(100% - 6em);
+  width: calc(100% - 3em);
   @media only screen and (min-width: 1000px) {
     margin-right: 3em;
+    margin-top: 75px;
+    padding: 3em;
     width: calc(100% - 280px - 9em);
+  }
+  h1 {
+    @include fontSize(26px);
+    line-height: 1.1;
+    @media only screen and (min-width: 1000px) {
+      @include fontSize(35px);
+      line-height: 1.2;
+    }
+  }
+  h2 {
+    @include fontSize(24px);
+    line-height: 1.1;
+    @media only screen and (min-width: 1000px) {
+      @include fontSize(30px);
+      line-height: 1.2;
+    }
   }
 }
 
 .basic-content {
   background: white;
-  padding: 3em;
-  margin-top: 75px;
-  width: calc(100% - 6em);
+  padding: 1.5em;
+  margin-top: 2em;
+  width: calc(100% - 3em);
+  @media only screen and (min-width: 1000px) {
+    margin-top: 75px;
+    padding: 3em;
+    width: calc(100% - 6em);
+  }
+  h1 {
+    @include fontSize(26px);
+    line-height: 1.1;
+    @media only screen and (min-width: 1000px) {
+      @include fontSize(35px);
+      line-height: 1.2;
+    }
+  }
 }
 
 a {
@@ -59,6 +90,11 @@ a {
   &:hover {
     color: $third;
   }
+}
+
+.photo-credits {
+  @include fontSize(16px);
+  margin-top: 3em;
 }
 
 // Dark theme overrides

@@ -33,6 +33,10 @@ export default ({ data }) => {
             {post.frontmatter.post_date} | {post.frontmatter.category}
           </span>
           <div dangerouslySetInnerHTML={{ __html: post.frontmatter.body }} />
+          <div
+            className="photo-credits"
+            dangerouslySetInnerHTML={{ __html: post.frontmatter.photo_credits }}
+          />
         </div>
 
         <aside className="sidebar">
@@ -52,6 +56,7 @@ export const query = graphql`
         category
         image_alt_text
         meta_description
+        photo_credits
         main_image {
           childImageSharp {
             fluid(maxWidth: 1500) {
