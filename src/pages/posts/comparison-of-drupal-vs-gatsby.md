@@ -36,5 +36,6 @@ body: "<p>I created two versions of my portfolio. With the first one, I wanted t
   it doesn't offer as much challenge as the sites I build at work.</p>"
 photo_credits: ''
 image_alt_text: Drupal 8 and Gatsby logos
+meta_description: Comparing Drupal and Gatsby from a portfolio point of view.
 
 ---
