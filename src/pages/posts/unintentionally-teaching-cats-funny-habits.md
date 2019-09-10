@@ -124,5 +124,7 @@ body: "<p>There have been a few occasions when I've noticed teaching something t
   a bit longer. And she doesn't touch any dry foods, she hates them.</p>"
 image_alt_text: My cat, Lumia, pressing my keyboard buttons
 photo_credits: ''
+meta_description: Weird or funny habits picked up by Lumia and Osiris intentionally
+  or unintentionally.
 
 ---
