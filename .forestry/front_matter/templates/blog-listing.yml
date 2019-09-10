@@ -34,6 +34,15 @@ fields:
   label: Type
   hidden: true
   default: blog-listing
+- name: meta_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Meta description
 pages:
 - src/pages/listings/life.md
 - src/pages/listings/tech.md
