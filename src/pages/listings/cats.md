@@ -7,6 +7,6 @@ blog_post_listing:
 - src/pages/posts/test-post.md
 category:
 - Cats
-meta_description: Cats, cats and more cats. Life with Lumia and Osiris.
+meta_description: Cats, cats and more cats. Posts about life with Lumia and Osiris.
 
 ---
