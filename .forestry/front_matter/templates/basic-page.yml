@@ -40,3 +40,12 @@ fields:
   label: Type
   hidden: true
   default: basic-page
+- name: meta_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Meta description
