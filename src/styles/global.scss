@@ -69,4 +69,10 @@ a {
   .basic-content {
     background: $dark_secondary;
   }
+  a {
+    color: $dark_blue;
+    &:hover {
+      color: wheat;
+    }
+  }
 }

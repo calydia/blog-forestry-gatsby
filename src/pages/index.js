@@ -1,12 +1,27 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import Img from 'gatsby-image';
+import { Helmet } from 'react-helmet';
 import Layout from '../components/Layout';
 import Info from '../components/Info';
 
 export default ({ data }) => {
   return (
     <Layout>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Welcome to my blog! | Blog - Sanna Mäkinen</title>
+        <meta name="Description" content="" />
+        <meta property="og:description" content="" />
+        <meta property="og:title" content="Welcome to my blog!" />
+        <meta property="og:type" content="website" />
+        <meta property="og:locale" content="en" />
+        <meta property="og:site_name" content="Blog - Sanna Mäkinen" />
+        <meta property="og:image" content="/static/osiris.jpg" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+      </Helmet>
+
       <div className="blog-wrapper">
         <section className="front-intro">
           <h1>Welcome to my blog!</h1>

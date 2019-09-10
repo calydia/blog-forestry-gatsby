@@ -1,6 +1,7 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import Img from 'gatsby-image';
+import { Helmet } from 'react-helmet';
 import Layout from '../components/Layout';
 
 export default ({ data }) => {
@@ -8,6 +9,18 @@ export default ({ data }) => {
   let mainFluid = post.frontmatter.main_image.childImageSharp.fluid;
   return (
     <Layout>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>{post.frontmatter.title} | Blog - Sanna Mäkinen</title>
+        <meta name="Description" content="" />
+        <meta property="og:description" content="" />
+        <meta property="og:title" content={post.frontmatter.title} />
+        <meta property="og:type" content="website" />
+        <meta property="og:locale" content="en" />
+        <meta property="og:site_name" content="Blog - Sanna Mäkinen" />
+        <meta property="og:image" content={mainFluid.src} />
+      </Helmet>
+
       <div className="blog-wrapper">
         <Img fluid={mainFluid} />
         <div className="basic-content">

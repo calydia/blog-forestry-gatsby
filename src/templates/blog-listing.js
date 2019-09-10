@@ -1,6 +1,7 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import Img from 'gatsby-image';
+import { Helmet } from 'react-helmet';
 import Layout from '../components/Layout';
 import Info from '../components/Info';
 
@@ -8,6 +9,20 @@ export default ({ data }) => {
   const content = data.markdownRemark;
   return (
     <Layout>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>{content.frontmatter.title} | Blog - Sanna Mäkinen</title>
+        <meta name="Description" content="" />
+        <meta property="og:description" content="" />
+        <meta property="og:title" content={content.frontmatter.title} />
+        <meta property="og:type" content="website" />
+        <meta property="og:locale" content="en" />
+        <meta property="og:site_name" content="Blog - Sanna Mäkinen" />
+        <meta property="og:image" content="/static/osiris.jpg" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+      </Helmet>
+
       <div className="blog-wrapper">
         <section className="category-intro">
           <h1>{content.frontmatter.title}</h1>
