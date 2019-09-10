@@ -2,10 +2,11 @@
 type: blog-listing
 title: Cats
 path: "/cats"
-body: "<p>Stories about life with my cats.</p>"
+body: "<p>Cats, cats and more cats. Life with Lumia and Osiris.</p>"
 blog_post_listing:
 - src/pages/posts/test-post.md
 category:
 - Cats
+meta_description: Posts about cats
 
 ---
