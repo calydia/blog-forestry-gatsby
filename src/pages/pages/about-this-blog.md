@@ -12,5 +12,6 @@ body: "<p>The original purpose of this site was just to create a Gatsby site wit
   really know yet.</p><p>And the tech section might some day contain some more technical
   stuff.</p>"
 image_alt_text: Lumia and Osiris sleeping
+meta_description: The blog was initially created as technical practice.
 
 ---
