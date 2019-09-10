@@ -184,5 +184,13 @@ module.exports = {
         ],
       },
     },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://blog.sanna.ninja',
+        sitemap: 'https://blog.sanna.ninja/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }],
+      },
+    },
   ],
 };
