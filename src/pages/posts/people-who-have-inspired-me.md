@@ -41,8 +41,9 @@ body: '<p>When I finally got my tech spark back and started activating on the te
   inspirational tech people to help me stay motivated and involved in the newest technologies.
   Any inspirational or great personalities in general also apply here, not everything
   has to be about tech.</p>'
-photo_credits: Photo by [Jude Beck](https://unsplash.com/@judebeck?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  on [Unsplash](https://unsplash.com/t/textures-patterns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+photo_credits: <p>Photo by <a href="https://unsplash.com/@judebeck?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+  rel="noopener noreferrer" target="_blank">Jude Beck</a> on <a href="https://unsplash.com/t/textures-patterns?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+  rel="noopener noreferrer" target="_blank">Unsplash</a></p>
 image_alt_text: Hearts
 meta_description: Tech people I've been recently inspired by.
 
