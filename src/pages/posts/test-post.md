@@ -47,5 +47,6 @@ body: "<p>Lumia (FI*&nbsp;Tanssikatti&nbsp;Lumihiutale) is an 8-year-old brown S
   him in the neck. And Osiris just continues rubbing against her after she lets go.</p>"
 post_date: 2019-09-07T17:38:20.000+00:00
 image_alt_text: My cat, Lumia
+meta_description: Lumia is a Sacred Birman who has quite a temperament.
 
 ---
