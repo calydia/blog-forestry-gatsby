@@ -99,5 +99,7 @@ body: <p>I've combated with exhaustion a few times now. I've only recently reali
 photo_credits: Photo by [Volkan Olmez](https://unsplash.com/@volkanolmez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   on [Unsplash](https://unsplash.com/search/photos/exhaustion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 image_alt_text: A woman's back
+meta_description: How mental health and impostor syndrome affect exhaustion and burning
+  out.
 
 ---
