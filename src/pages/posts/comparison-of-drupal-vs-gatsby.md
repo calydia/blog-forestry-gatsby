@@ -37,7 +37,9 @@ body: <p>I created two versions of my portfolio. With the first one, I wanted to
   with this project since the site is very small.</p><p>On the server the Drupal version
   got 98 (mobile) and 100 (desktop) points in performance. So good job on the hosting
   side of things. The site is pretty simple, though, so it doesn't offer as much challenge
-  as the sites I build at work.</p><p></p>
+  as the sites I build at work.</p><p>If you're interested in the sites, <a href="https://drupal.sanna.ninja"
+  title="">the Drupal portfolio is located here</a> and <a href="https://sanna.ninja"
+  title="">the Gatsby portfolio is located here</a>.</p>
 photo_credits: ''
 image_alt_text: Drupal 8 and Gatsby logos
 meta_description: Comparing Drupal and Gatsby from a portfolio point of view.
