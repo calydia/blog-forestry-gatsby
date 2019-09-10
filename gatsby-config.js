@@ -35,6 +35,12 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: `gatsby-remark-responsive-image`,
+            options: {
+              maxWidth: 1500,
+            },
+          },
+          {
             resolve: 'gatsby-remark-normalize-paths',
             options: {
               pathFields: ['main_image', 'listing_image', 'profile_image'],
@@ -65,11 +71,18 @@ module.exports = {
       },
     },
     {
-      resolve: 'gatsby-plugin-web-font-loader',
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
       options: {
-        google: {
-          families: ['Rock Salt', 'Assistant:400,700'],
-        },
+        fonts: [
+          {
+            family: `Rock Salt`,
+            subsets: [`latin`],
+          },
+          {
+            family: `Assistant`,
+            variants: [`400`, `700`],
+          },
+        ],
       },
     },
     {

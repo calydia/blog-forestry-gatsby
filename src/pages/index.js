@@ -40,6 +40,7 @@ export default ({ data }) => {
                 key={index}
                 href={node.node.frontmatter.path}
                 className="blog-link"
+                aria-label={node.node.frontmatter.title}
               >
                 <article key={index} className="post">
                   <Img fluid={listingFluid} />
@@ -65,6 +66,7 @@ export default ({ data }) => {
                   key={index}
                   href={node.node.frontmatter.path}
                   className="blog-link"
+                  aria-label={node.node.frontmatter.title}
                 >
                   <article key={index} className="post">
                     <Img fluid={listingFluid} />
