@@ -62,5 +62,6 @@ body: <p>Ever since I first saw the demos and YouTube videos of people playing t
   have the gear for it. There is a free sample available.</p>
 photo_credits: ''
 image_alt_text: Beat Saber visuals
+meta_description: My experiences with the Beat Saber VR game.
 
 ---
