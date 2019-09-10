@@ -4,6 +4,7 @@ category:
 type: blog-listing
 title: Tech
 path: "/tech"
-body: "<p>Something a bit more technical.</p>"
+body: "<p>Tech-related.</p>"
+meta_description: Posts about more technical topics.
 
 ---
