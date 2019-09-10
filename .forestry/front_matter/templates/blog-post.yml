@@ -77,9 +77,9 @@ fields:
       format: markdown
   label: Meta description
 pages:
+- src/pages/posts/intro-to-osiris.md
 - src/pages/posts/fighting-exhaustion.md
 - src/pages/posts/comparison-of-drupal-vs-gatsby.md
 - src/pages/posts/the-most-addicting-game-of-the-year-award-goes-to-beatsaber.md
 - src/pages/posts/unintentionally-teaching-cats-funny-habits.md
 - src/pages/posts/people-who-have-inspired-me.md
-- src/pages/posts/intro-to-osiris.md

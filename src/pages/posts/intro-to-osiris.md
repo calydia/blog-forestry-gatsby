@@ -28,5 +28,6 @@ body: <p>Osiris (Fi*Neaera's Finian Fahd) is an 8-year-old beige Abyssinian. He 
   Which makes him even cuter.</p>
 image_alt_text: My cat, Osiris
 photo_credits: ''
+meta_description: Osiris is a beige Abyssinian who loves to love.
 
 ---
