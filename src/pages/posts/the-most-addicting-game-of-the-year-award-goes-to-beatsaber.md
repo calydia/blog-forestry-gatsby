@@ -31,30 +31,35 @@ body: <p>Ever since I first saw the demos and YouTube videos of people playing t
   which means that one or both will come lay on my feet or next to my feet. I can
   still play, but I do need to be a bit careful so I won't step on them or kick them.
   My fiancé hasn't tried the game yet, so we don't know how much participation he
-  gets from the cats, but I do think that the cats participate more with me.</p><p>I
-  like that Beat Saber has a campaign with different kinds of challenges. It helps
-  keep the game more interesting. You can add those challenge types to any songs in
-  the game yourself too. It's also great that the game has several difficulty levels.
-  It helps people with different skill levels or physical shape to be able to play
-  the game and enjoy it. I've tried a couple of expert levels so far, and some of
-  them just had me stop the level immediately and say no way. I'll give those levels
-  another go when I've played a bit more and am more familiar with the level styles.
-  Challenging yourself is one fun thing in the game as well. It might get boring if
-  everything was super easy.</p><p>One complaint people have had is that the songs
-  in the game don't have that much variation. If you dislike computer music, you might
-  not enjoy the songs so much. But there are a lot of people creating their own levels
-  with a wider range of songs and you can add those to your game. There are in game
-  purchases for songs as well, though there aren't that many of those yet. The game
-  makers have said there will be more variation in the music and that they will keep
-  making the game better and better. I do like the music styles in the game, though,
-  so I have no complaints about the music.</p><p>I even ordered Oculus Quest prescription
-  lens adapter so that I might be able to play without my glasses.</p><p>I mention
-  in the title that the game is addictive. After I first played the game, I woke up
-  the next morning thinking about when I could play the game again. The songs were
-  playing in my head and I just wanted to start moving my arms around. And this continued
-  after I played the second time. And the third time. I just fell in love with the
-  game. I really recommend trying it out if you have the gear for it. There is a free
-  sample available.</p>
+  gets from the cats, but I do think that the cats participate more with me.</p><p>But
+  in all seriousness, the real challenge for me with this game is that I have trouble
+  registering the cubes in my peripheral vision and the more cubes in my vision area
+  in general, the more real trouble I have of actually registering what I should be
+  doing. I hope that by playing this game I will get my eyes to get used to these
+  kinds of movements and might be able to progress to more difficult levels later
+  on.</p><p>I like that Beat Saber has a campaign with different kinds of challenges.
+  It helps keep the game more interesting. You can add those challenge types to any
+  songs in the game yourself too. It's also great that the game has several difficulty
+  levels. It helps people with different skill levels or physical shape to be able
+  to play the game and enjoy it. I've tried a couple of expert levels so far, and
+  some of them just had me stop the level immediately and say no way. I'll give those
+  levels another go when I've played a bit more and am more familiar with the level
+  styles. Challenging yourself is one fun thing in the game as well. It might get
+  boring if everything was super easy.</p><p>One complaint people have had is that
+  the songs in the game don't have that much variation. If you dislike computer music,
+  you might not enjoy the songs so much. But there are a lot of people creating their
+  own levels with a wider range of songs and you can add those to your game. There
+  are in game purchases for songs as well, though there aren't that many of those
+  yet. The game makers have said there will be more variation in the music and that
+  they will keep making the game better and better. I do like the music styles in
+  the game, though, so I have no complaints about the music.</p><p>I even ordered
+  Oculus Quest prescription lens adapter so that I might be able to play without my
+  glasses.</p><p>I mention in the title that the game is addictive. After I first
+  played the game, I woke up the next morning thinking about when I could play the
+  game again. The songs were playing in my head and I just wanted to start moving
+  my arms around. And this continued after I played the second time. And the third
+  time. I just fell in love with the game. I really recommend trying it out if you
+  have the gear for it. There is a free sample available.</p>
 photo_credits: ''
 image_alt_text: Beat Saber visuals
 
