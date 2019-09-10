@@ -96,8 +96,9 @@ body: <p>I've combated with exhaustion a few times now. I've only recently reali
   good enough, I have value and I deserve to be in the position I'm in. On the good
   days, I know this. But when things got dark, my brain convinced me otherwise. I
   hope from now on my brain will listen to reason even if the situation gets worse.</p>
-photo_credits: Photo by [Volkan Olmez](https://unsplash.com/@volkanolmez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-  on [Unsplash](https://unsplash.com/search/photos/exhaustion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+photo_credits: <p>Photo by <a href="https://unsplash.com/@volkanolmez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+  rel="noopener noreferrer" target="_blank">Volkan Olmez</a> on <a href="https://unsplash.com/search/photos/exhaustion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+  rel="noopener noreferrer" target="_blank">Unsplash</a></p>
 image_alt_text: A woman's back
 meta_description: How mental health and impostor syndrome affect exhaustion and burning
   out.
