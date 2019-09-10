@@ -87,7 +87,6 @@ module.exports = {
         defaultDataLayer: { platform: 'gatsby' },
       },
     },
-    `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -103,5 +102,68 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
+    {
+      resolve: 'gatsby-plugin-react-svg',
+      options: {
+        rule: {
+          include: /assets/,
+        },
+      },
+    },
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+                site_url: siteUrl
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.edges.map(edge => {
+                return Object.assign({}, edge.node.frontmatter, {
+                  description: edge.node.meta_description,
+                  date: edge.node.frontmatter.post_date,
+                  url: site.siteMetadata.siteUrl + edge.node.frontmatter.path,
+                  guid: site.siteMetadata.siteUrl + edge.node.frontmatter.path,
+                });
+              });
+            },
+            query: `
+            {
+              allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___post_date]}, filter: {frontmatter: {type: {eq: "blog-post"}}}) {
+                edges {
+                  node {
+                    frontmatter {
+                      title
+                      post_date(formatString: "DD.MM.YYYY")
+                      meta_description
+                      path
+                    }
+                  }
+                }
+              }
+            }
+            
+            `,
+            output: '/rss.xml',
+            title: "Blog - Sanna Mäkinen's RSS Feed",
+            // optional configuration to insert feed reference in pages:
+            // if `string` is used, it will be used to create RegExp and then test if pathname of
+            // current page satisfied this regular expression;
+            // if not provided or `undefined`, all pages will have feed reference inserted
+            match: '^/blog/',
+          },
+        ],
+      },
+    },
   ],
 };

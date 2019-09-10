@@ -4,9 +4,33 @@
   padding: 3em;
 }
 .footer-content {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
   margin: 0 auto;
   max-width: 1500px;
   width: 95%;
+  .links {
+    display: flex;
+  }
+}
+
+.twitter-link {
+  display: block;
+  height: 30px;
+  margin: 0.2em;
+  padding: 0.5em;
+  width: 30px;
+}
+.rss-link {
+  display: block;
+  height: 30px;
+  margin: 0.2em;
+  padding: 0.5em;
+  width: 30px;
+}
+.link-name {
+  display: none;
 }
 
 //Dark theme overrides
