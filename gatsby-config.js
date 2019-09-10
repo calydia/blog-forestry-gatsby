@@ -3,7 +3,7 @@ module.exports = {
     title: 'Blog',
     author: 'Sanna Mäkinen',
     description: 'A blog about cats and life and whatever comes to mind',
-    siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    siteUrl: 'https://blog.sanna.ninja',
     menuLinks: [
       {
         name: 'About',

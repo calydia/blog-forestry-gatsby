@@ -6,6 +6,7 @@
 @import './menu';
 @import './sidebar';
 @import './blog_listing';
+@import './front.scss';
 
 body {
   @include fontSize(20px);
@@ -24,6 +25,10 @@ body {
   justify-content: space-between;
   margin: 0 auto;
   max-width: 1500px;
+  padding: 0 1em;
+  @media only screen and (min-width: 1500px) {
+    padding: 0;
+  }
   > .gatsby-image-wrapper {
     width: 100%;
   }

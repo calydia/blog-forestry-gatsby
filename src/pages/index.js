@@ -8,8 +8,9 @@ export default ({ data }) => {
   return (
     <Layout>
       <div className="blog-wrapper">
-        <section className="intro">
-          <h1>Blog</h1>
+        <section className="front-intro">
+          <h1>Welcome to my blog!</h1>
+          <p></p>
         </section>
 
         <div className="blog-first">
@@ -17,7 +18,11 @@ export default ({ data }) => {
             let listingFluid =
               node.node.frontmatter.listing_image.childImageSharp.fluid;
             return (
-              <a key={index} href={node.node.frontmatter.path}>
+              <a
+                key={index}
+                href={node.node.frontmatter.path}
+                className="blog-link"
+              >
                 <article key={index} className="post">
                   <Img fluid={listingFluid} />
                   <div className="post-content">
@@ -32,13 +37,17 @@ export default ({ data }) => {
             );
           })}
         </div>
-        <section className="blog-container">
-          <div className="blog-list">
+        <section className="front-blog-container">
+          <div className="front-blog-list">
             {data.all.edges.map((node, index) => {
               let listingFluid =
                 node.node.frontmatter.listing_image.childImageSharp.fluid;
               return (
-                <a key={index} href={node.node.frontmatter.path}>
+                <a
+                  key={index}
+                  href={node.node.frontmatter.path}
+                  className="blog-link"
+                >
                   <article key={index} className="post">
                     <Img fluid={listingFluid} />
                     <div className="post-content">
@@ -53,9 +62,6 @@ export default ({ data }) => {
               );
             })}
           </div>
-          <aside className="sidebar">
-            <Info />
-          </aside>
         </section>
       </div>
     </Layout>
