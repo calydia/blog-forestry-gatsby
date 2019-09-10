@@ -17,21 +17,21 @@ body: <p>I've combated with exhaustion a few times now. I've only recently reali
   but then I often end up taking the offered work anyway because of reasons like "there's
   no one else" or "it just has to be done" or "we're all busy". I'm not saying that
   those sentences aren't true, because they are. I've noticed that there basically
-  always is someone who is at least almost at their breaking point. Those sentences
-  just make me feel like I'm not being heard or being taken seriously. I used to think
-  it was my fault that the workload kept piling on, that maybe I wasn't fast enough
-  or talented enough because not everyone was at their breaking point. Thankfully
-  I've realised that those things have nothing to do with this. It's just my impostor
-  syndrome talking and some people have a more healthy point of view to work vs private
-  life than I've had. I've always put the company and its clients above my wellbeing.
-  And that mistake is mine alone.</p><p>One seemingly harmless behaviour of mine is
-  that I pretty much always cancel my plans if someone wants to have a meeting at
-  an inconvenient time. This, at first, seems like it doesn't matter, it's only one
-  time. But then it happens again and again and again. It becomes a pattern, and it
-  disrupts my personal life more than you'd think. I haven't taken this behaviour
-  as seriously as I should have. Better late than never, I suppose.</p><p>When the
-  deadlines close in, I usually start working longer days automatically to try to
-  somehow get everything done. This ultimately leads to a situation where I don't
+  always is someone at our company who is at least almost at their breaking point.
+  Those sentences just make me feel like I'm not being heard or being taken seriously.
+  I used to think it was my fault that the workload kept piling on, that maybe I wasn't
+  fast enough or talented enough because not everyone was at their breaking point.
+  Thankfully I've realised that those things have nothing to do with this. It's just
+  my impostor syndrome talking and some people have a more healthy point of view to
+  work vs private life than I've had. I've always put the company and its clients
+  above my wellbeing. And that mistake is mine alone.</p><p>One seemingly harmless
+  behaviour of mine is that I pretty much always cancel my plans if someone wants
+  to have a meeting at an inconvenient time. This, at first, seems like it doesn't
+  matter, it's only one time. But then it happens again and again and again. It becomes
+  a pattern, and it disrupts my personal life more than you'd think. I haven't taken
+  this behaviour as seriously as I should have. Better late than never, I suppose.</p><p>When
+  the deadlines close in, I usually start working longer hours automatically to try
+  to somehow get everything done. This ultimately leads to a situation where I don't
   have time or the energy to exercise or do anything else either. For example, my
   fiancé was telling me all spring that it's weird and a shame that I don't teach
   myself anything new or do anything tech-related in my spare time anymore. And the
@@ -50,25 +50,25 @@ body: <p>I've combated with exhaustion a few times now. I've only recently reali
   task for a longer period of time. He wouldn't want to work on several projects in
   one day. That's when I first realised that I actually felt the same way. That I
   had to hop between projects (maybe not even getting to work two hours on each) was
-  one reason I felt the workload so badly. At that time I put my foot down and told
-  my project managers that the two projects they had me working at the same time would
-  have to be split into days or weeks for each and that I wouldn't be even discussing
-  the other project while I was working on the other. And they were fine with it.
-  And I noticed that it was a lot easier to get things properly done when I could
-  concentrate on what I was doing and not constantly being interrupted mid-thought.
-  The best way for me would have been to do one project first and then move on to
-  the next. But this weekly split was an ok solution. I'm definitely keeping this
-  system up from now on. But if I hadn't had this discussion, I probably wouldn't
-  have realised that this was even something I needed.</p><p>I've recently read and
-  heard more and more about impostor syndrome. Before I just thought it was me that
-  was thinking this way. It was kind of relieving to see many talented and smart people
-  saying they were combatting the same thing. And then it suddenly hit me. One of
-  the biggest reasons I was pushing myself way too hard was because of thinking otherwise,
-  I wasn't good enough because I am not the most technical and experienced developer.
-  I kept comparing myself to people who have over double the years in expertise. When
-  you think about it, it makes sense that those people would have better technical
-  skills and knowledge. But what took me a long while to understand was that I have
-  a lot of value in other areas, maybe even more than the people I was comparing myself
+  one reason I felt the workload so badly. After that discussion I told my project
+  managers that the two projects they had me working at the same time would have to
+  be split into days or weeks for each and that I wouldn't be even discussing the
+  other project while I was working on the other. And they were fine with it. And
+  I noticed that it was a lot easier to get things properly done when I could concentrate
+  on what I was doing and not constantly being interrupted mid-thought. The best way
+  for me would have been to do one project first and then move on to the next. But
+  this weekly split was an ok solution. I'm definitely keeping this system up from
+  now on. But if I hadn't had this discussion, I probably wouldn't have realised that
+  this was even something I needed.</p><p>I've recently read and heard more and more
+  about impostor syndrome. Before I just thought it was me that was thinking this
+  way. It was kind of relieving to see many talented and smart people saying they
+  were combatting the same thing. And then it suddenly hit me. One of the biggest
+  reasons I was pushing myself way too hard was because of thinking otherwise, I wasn't
+  good enough because I am not the most technical and experienced developer. I kept
+  comparing myself to people who have over double the years in expertise. When you
+  think about it, it makes sense that those people would have better technical skills
+  and knowledge. But what took me a long while to understand was that I have a lot
+  of value in other areas, maybe even more than the people I was comparing myself
   to. And that my technical skills have value even if I'm not the most experienced.
   Comparing yourself to others, to begin with, is not a very sensible thing to do,
   but I suppose that comes naturally to us. At least in my family, we kids were constantly
@@ -79,7 +79,7 @@ body: <p>I've combated with exhaustion a few times now. I've only recently reali
   about that, but it has definitely left a mark on me. Bullying at school and a broken
   family were in the centre of everything and I even ended up depressed as a teen.
   Thankfully my best friend helped me get through things back then because she was
-  the only one who took my mental health seriously. She put a stop to my harmful habits
+  the only one who took my mental health seriously. She put a stop to my harmful behaviours
   the moment she realised what was happening. Without her, I probably wouldn't be
   here today.</p><p>I also graduated at a bad time in 2008, the economy was quite
   bad and it took me two years to get a job. I suffered from depression again while
