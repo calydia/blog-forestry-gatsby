@@ -2,7 +2,7 @@
 category:
 - Life
 type: blog-post
-title: The most addicting game of the year award goes to BeatSaber
+title: The most addicting game of the year award goes to Beat Saber
 path: "/life/beat-saber"
 post_date: 2019-09-11T21:00:00.000+00:00
 main_image: "/uploads/beat-saber-main.jpg"
