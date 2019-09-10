@@ -67,6 +67,15 @@ fields:
     schema:
       format: markdown
   label: Photo credits
+- name: meta_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Meta description
 pages:
 - src/pages/posts/the-most-addicting-game-of-the-year-award-goes-to-beatsaber.md
 - src/pages/posts/unintentionally-teaching-cats-funny-habits.md
