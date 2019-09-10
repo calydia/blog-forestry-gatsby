@@ -65,7 +65,7 @@ fields:
     required: false
     wysiwyg: true
     schema:
-      format: markdown
+      format: html
   label: Photo credits
 - name: meta_description
   type: textarea
