@@ -106,6 +106,7 @@ export const query = graphql`
       frontmatter {
         title
         body
+        meta_description
       }
     }
     allMarkdownRemark(
@@ -123,7 +124,6 @@ export const query = graphql`
             post_date(formatString: "DD.MM.YYYY")
             category
             image_alt_text
-            meta_description
             listing_image {
               childImageSharp {
                 fluid(maxWidth: 1025) {
@@ -150,7 +150,6 @@ export const query = graphql`
             post_date(formatString: "DD.MM.YYYY")
             category
             image_alt_text
-            meta_description
             listing_image {
               childImageSharp {
                 fluid(maxWidth: 945) {
