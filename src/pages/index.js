@@ -11,8 +11,11 @@ export default ({ data }) => {
       <Helmet>
         <meta charSet="utf-8" />
         <title>Welcome to my blog! | Blog - Sanna Mäkinen</title>
-        <meta name="Description" content="" />
-        <meta property="og:description" content="" />
+        <meta name="Description" content="Posts about cats, life and tech." />
+        <meta
+          property="og:description"
+          content="Posts about cats, life and tech."
+        />
         <meta property="og:title" content="Welcome to my blog!" />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en" />

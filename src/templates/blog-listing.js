@@ -12,8 +12,14 @@ export default ({ data }) => {
       <Helmet>
         <meta charSet="utf-8" />
         <title>{content.frontmatter.title} | Blog - Sanna Mäkinen</title>
-        <meta name="Description" content="" />
-        <meta property="og:description" content="" />
+        <meta
+          name="Description"
+          content={content.frontmatter.meta_description}
+        />
+        <meta
+          property="og:description"
+          content={content.frontmatter.meta_description}
+        />
         <meta property="og:title" content={content.frontmatter.title} />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en" />
@@ -40,7 +46,10 @@ export default ({ data }) => {
                 className="blog-link"
               >
                 <article key={index} className="post">
-                  <Img fluid={listingFluid} />
+                  <Img
+                    fluid={listingFluid}
+                    alt={node.node.frontmatter.image_alt_text}
+                  />
                   <div className="post-content">
                     <h2>{node.node.frontmatter.title}</h2>
                     <span className="blog-info">
@@ -65,7 +74,10 @@ export default ({ data }) => {
                   className="blog-link"
                 >
                   <article key={index} className="post">
-                    <Img fluid={listingFluid} />
+                    <Img
+                      fluid={listingFluid}
+                      alt={node.node.frontmatter.image_alt_text}
+                    />
                     <div className="post-content">
                       <h2>{node.node.frontmatter.title}</h2>
                       <span className="blog-info">
@@ -108,6 +120,8 @@ export const query = graphql`
             path
             post_date(formatString: "DD.MM.YYYY")
             category
+            image_alt_text
+            meta_description
             listing_image {
               childImageSharp {
                 fluid(maxWidth: 1025) {
@@ -133,6 +147,8 @@ export const query = graphql`
             path
             post_date(formatString: "DD.MM.YYYY")
             category
+            image_alt_text
+            meta_description
             listing_image {
               childImageSharp {
                 fluid(maxWidth: 945) {

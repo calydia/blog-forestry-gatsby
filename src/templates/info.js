@@ -12,8 +12,14 @@ export default ({ data }) => {
       <Helmet>
         <meta charSet="utf-8" />
         <title>{post.frontmatter.title} | Blog - Sanna Mäkinen</title>
-        <meta name="Description" content="" />
-        <meta property="og:description" content="" />
+        <meta
+          name="Description"
+          content="I'm a developer by profession. So basically I like to code. I love cats."
+        />
+        <meta
+          property="og:description"
+          content="I'm a developer by profession. So basically I like to code. I love cats."
+        />
         <meta property="og:title" content={post.frontmatter.title} />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en" />
@@ -39,6 +45,7 @@ export const query = graphql`
       frontmatter {
         name
         info
+        image_alt_text
         profile_image {
           childImageSharp {
             fluid(maxWidth: 250) {

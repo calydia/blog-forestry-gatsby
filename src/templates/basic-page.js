@@ -12,8 +12,11 @@ export default ({ data }) => {
       <Helmet>
         <meta charSet="utf-8" />
         <title>{post.frontmatter.title} | Blog - Sanna Mäkinen</title>
-        <meta name="Description" content="" />
-        <meta property="og:description" content="" />
+        <meta name="Description" content={post.frontmatter.meta_description} />
+        <meta
+          property="og:description"
+          content={post.frontmatter.meta_description}
+        />
         <meta property="og:title" content={post.frontmatter.title} />
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="en" />
@@ -22,7 +25,7 @@ export default ({ data }) => {
       </Helmet>
 
       <div className="blog-wrapper">
-        <Img fluid={mainFluid} />
+        <Img fluid={mainFluid} alt={post.frontmatter.image_alt_text} />
         <div className="basic-content">
           <h1>{post.frontmatter.title}</h1>
           <div dangerouslySetInnerHTML={{ __html: post.frontmatter.body }} />
@@ -37,6 +40,8 @@ export const query = graphql`
       frontmatter {
         title
         body
+        image_alt_text
+        meta_description
         main_image {
           childImageSharp {
             fluid(maxWidth: 1500) {
