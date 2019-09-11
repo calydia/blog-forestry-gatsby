@@ -44,34 +44,32 @@ body: <p>I've combated with exhaustion a few times now. My most recent experienc
   it will end up as bad as the previous time or I just dismiss it because things need
   to get done whatever it takes. I haven't taken this issue seriously enough. Maybe
   if I finally start taking this as seriously as I should, I can affect my workload
-  better, too. Nobody at the workplace wants things to get as bad for me as they've
-  gotten this spring, I'm sure of it. So maybe if I take the first symptoms seriously
-  myself, other people will too. And maybe then I can ask for help a little sooner,
-  it would be nice to get help before things go too far.</p><h2>The revelation I had
-  about things this spring</h2><p>I talked to a developer from another company who
-  said that he would feel sad if he wouldn't be able to concentrate on a site or a
-  task for a longer period of time. He wouldn't want to work on several projects in
-  one day. That's when I first realised that I actually felt the same way. That I
-  had to hop between projects (maybe not even getting to work two hours on each) was
-  one reason I felt the workload so badly. After that discussion I told my project
-  managers that the two projects they had me working at the same time would have to
-  be split into days or weeks for each and that I wouldn't be even discussing the
-  other project while I was working on the other. And they were fine with it. And
-  I noticed that it was a lot easier to get things properly done when I could concentrate
-  on what I was doing and not constantly being interrupted mid-thought. The best way
-  for me would have been to do one project first and then move on to the next. But
-  this weekly split was an ok solution. I'm definitely keeping this system up from
-  now on. But if I hadn't had this discussion, I probably wouldn't have realised that
-  this was even something I needed.</p><p>I've recently read and heard more and more
-  about impostor syndrome. Before I just thought it was me that was thinking this
-  way. It was kind of relieving to see many talented and smart people saying they
-  were combatting the same thing. And then it suddenly hit me. One of the biggest
-  reasons I was pushing myself way too hard was because of thinking otherwise, I wasn't
-  good enough because I am not the most technical and experienced developer. I kept
-  comparing myself to people who have over double the years in expertise. When you
-  think about it, it makes sense that those people would have better technical skills
-  and knowledge. But what took me a long while to understand was that I have a lot
-  of value in other areas, maybe even more than the people I was comparing myself
+  better, too. I'm sure nobody wishes to see this happen over and over again. So maybe
+  if I take the first symptoms seriously myself, other people will too.</p><h2>The
+  revelation I had about things this spring</h2><p>I talked to a developer from another
+  company who said that he would feel sad if he wouldn't be able to concentrate on
+  a site or a task for a longer period of time. He wouldn't want to work on several
+  projects in one day. That's when I first realised that I actually felt the same
+  way. That I often had to constantly hop between projects (maybe not even getting
+  to work two hours on each) was one reason I felt the workload so badly. After that
+  discussion I told my project managers that the two projects they had me working
+  at the same time would have to be split into days or weeks for each and that I wouldn't
+  be even discussing the other project while I was working on the other. And they
+  were fine with it. And I noticed that it was a lot easier to keep things rolling
+  when I could concentrate on what I was doing and not constantly being interrupted
+  mid-thought. The best way for me would have been to do one project first and then
+  move on to the next. But this weekly split was an ok solution. I'm definitely keeping
+  this system up from now on. But if I hadn't had this discussion, I probably wouldn't
+  have realised that this was even something I needed.</p><p>I've recently read and
+  heard more and more about impostor syndrome. Before I just thought it was me that
+  was thinking this way. It was kind of relieving to see many talented and smart people
+  saying they were combatting the same thing. And then it suddenly hit me. One of
+  the biggest reasons I was pushing myself way too hard was because of thinking otherwise,
+  I wasn't good enough because I am not the most technical and experienced developer.
+  I kept comparing myself to people who have over double the years in expertise. When
+  you think about it, it makes sense that those people would have better technical
+  skills and knowledge. But what took me a long while to understand was that I have
+  a lot of value in other areas, maybe even more than the people I was comparing myself
   to. And that my technical skills have value even if I'm not the most experienced.
   Comparing yourself to others, to begin with, is not a very sensible thing to do,
   but I suppose that comes naturally to us. At least in my family, we kids were constantly
