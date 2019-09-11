@@ -93,10 +93,10 @@ body: <p>I've combated with exhaustion a few times now. My most recent experienc
   of which got worse for thinking I didn't deserve a job or not being good enough.
   And when I finally got the job, I worked extra hard because I was constantly afraid
   someone would tell me I didn't have what it takes. And I've been doing that for
-  almost ten years now. I think it's finally time that I convince myself that I'm
-  good enough, I have value and I deserve to be in the position I'm in. On the good
-  days, I know this. But when things got dark, my brain convinced me otherwise. I
-  hope from now on my brain will listen to reason even if the situation gets worse.</p>
+  almost ten years now.</p><p>I think it's finally time that I convince myself that
+  I'm good enough, I have value and I deserve to be in the position I'm in. On the
+  good days, I know this. But when things got dark, my brain convinced me otherwise.
+  I hope from now on my brain can listen to reason even if the situation gets worse.</p>
 photo_credits: <p>Photo by <a href="https://unsplash.com/@volkanolmez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
   rel="noopener noreferrer" target="_blank">Volkan Olmez</a> on <a href="https://unsplash.com/search/photos/exhaustion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
   rel="noopener noreferrer" target="_blank">Unsplash</a></p>
