@@ -7,31 +7,34 @@ path: "/life/fighting-exhaustion-and-impostor-syndrome"
 post_date: 2019-09-08T21:00:00.000+00:00
 main_image: "/uploads/woman-back-thumb.jpg"
 listing_image: "/uploads/woman-back-thumb-1.jpg"
-body: <p>I've combated with exhaustion a few times now. I've only recently realised
-  that my impostor syndrome and my past affect the problem way more than I thought.</p><p>I've
-  spent a lot of time this spring and summer thinking about exhaustion and impostor
-  syndrome and how things relate to one another. I think I finally learned my lesson
-  in this matter.</p><h2>How things end up from good to horrible</h2><p>It usually
-  starts with me noticing that I have too much stuff put on my plate and I can't stop
-  it from getting worse or make things any easier. I try saying no to extra work,
-  but then I often end up taking the offered work anyway because of reasons like "there's
-  no one else" or "it just has to be done" or "we're all busy". I'm not saying that
-  those sentences aren't true, because they are. I've noticed that there basically
-  always is someone at our company who is at least almost at their breaking point.
+body: <p>I've combated with exhaustion a few times now. My most recent experience
+  was this spring, when the situation got to the point where I had almost daily migraines
+  for several months and I was quite literally at my breaking point. </p><p>I spent
+  a lot of time this spring and summer thinking about exhaustion and impostor syndrome
+  and how those things relate to one another. I've only recently realised that my
+  impostor syndrome and my past affect the problem way more than I thought. I hope
+  I finally learned my lesson in this matter.</p><h2>How things end up from good to
+  horrible</h2><p>It usually starts with me noticing that I have too much stuff put
+  on my plate and I can't stop it from getting worse or make things any easier. I
+  try saying no to extra work, but then I often end up taking the offered work anyway
+  because of reasons like "there's no one else" or "it just has to be done" or "we're
+  all busy". I'm not saying that those sentences aren't true, because they often are.
   Those sentences just make me feel like I'm not being heard or being taken seriously.
   I used to think it was my fault that the workload kept piling on, that maybe I wasn't
   fast enough or talented enough because not everyone was at their breaking point.
   Thankfully I've realised that those things have nothing to do with this. It's just
   my impostor syndrome talking and some people have a more healthy point of view to
-  work vs private life than I've had. I've always put the company and its clients
-  above my wellbeing. And that mistake is mine alone.</p><p>One seemingly harmless
-  behaviour of mine is that I pretty much always cancel my plans if someone wants
-  to have a meeting at an inconvenient time. This, at first, seems like it doesn't
-  matter, it's only one time. But then it happens again and again and again. It becomes
-  a pattern, and it disrupts my personal life more than you'd think. I haven't taken
-  this behaviour as seriously as I should have. Better late than never, I suppose.</p><p>When
-  the deadlines close in, I usually start working longer hours automatically to try
-  to somehow get everything done. This ultimately leads to a situation where I don't
+  work vs private life than I've had. I don't know anyone who cares on the same level
+  as I do, it's almost impossible for me to, for example, let an impossible deadline
+  pass without getting the job done. I've always put the company and its clients above
+  my wellbeing. And that mistake is mine alone.</p><p>One seemingly harmless behaviour
+  of mine is that I pretty much always cancel my plans if someone wants to have a
+  meeting at an inconvenient time. This, at first, seems like it doesn't matter, it's
+  only one time. But then it happens again and again and again. It becomes a pattern,
+  and it disrupts my personal life more than you'd think. I haven't taken this behaviour
+  as seriously as I should have. Better late than never, I suppose.</p><p>When the
+  deadlines close in, I usually start working longer hours automatically to try to
+  somehow get everything done. This ultimately leads to a situation where I don't
   have time or the energy to exercise or do anything else either. For example, my
   fiancé was telling me all spring that it's weird and a shame that I don't teach
   myself anything new or do anything tech-related in my spare time anymore. And the
