@@ -1,5 +1,4 @@
 import React from 'react';
-import { graphql, StaticQuery } from 'gatsby';
 import ThemeContext from '../context/ThemeContext';
 import Header from '../components/Header';
 import Footer from '../components/Footer';

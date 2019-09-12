@@ -3,7 +3,6 @@ import { graphql } from 'gatsby';
 import Img from 'gatsby-image';
 import { Helmet } from 'react-helmet';
 import Layout from '../components/Layout';
-import Info from '../components/Info';
 
 export default ({ data }) => {
   return (

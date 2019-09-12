@@ -1,6 +1,6 @@
 import React from 'react';
-import Twitter from '../assets/icons/twitter.svg';
-import Rss from '../assets/icons/rss.svg';
+import TwitterIcon from '../assets/icons/twitter.svg';
+import RssIcon from '../assets/icons/rss.svg';
 
 export default () => {
   return (
@@ -23,11 +23,11 @@ export default () => {
             aria-label="My Twitter profile"
           >
             <span className="link-name">Twitter</span>
-            <Twitter />
+            <TwitterIcon />
           </a>
           <a href="/rss.xml" className="rss-link" aria-label="Blog RSS feed">
             <span className="link-name">RSS</span>
-            <Rss />
+            <RssIcon />
           </a>
         </div>
       </div>
