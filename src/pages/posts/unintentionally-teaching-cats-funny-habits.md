@@ -4,7 +4,7 @@ category:
 type: blog-post
 title: Unintentionally teaching cats some funny habits
 path: "/cats/unintentionally-teaching-cats-funny-habits"
-post_date: 2019-09-09T21:00:00.000+00:00
+post_date: 2019-09-09T21:00:00Z
 main_image: "/uploads/lumia-on-my-keyboard-main.jpg"
 listing_image: "/uploads/lumia-on-my-keyboard-thumb.jpg"
 body: "<p>I've managed to teach my cats some behaviours that were not my intention
