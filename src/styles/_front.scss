@@ -60,3 +60,12 @@
     width: 100%;
   }
 }
+
+// Dark theme overrides
+.dark {
+  .front-blog-list {
+    .blog-link {
+      background: $dark_secondary;
+    }
+  }
+}
