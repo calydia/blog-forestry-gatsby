@@ -2,6 +2,7 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import Img from 'gatsby-image';
 import { Helmet } from 'react-helmet';
+import moment from 'moment';
 import Layout from '../components/Layout';
 
 export default ({ data }) => {
@@ -46,8 +47,10 @@ export default ({ data }) => {
                   <div className="post-content">
                     <h2>{node.node.frontmatter.title}</h2>
                     <span className="blog-info">
-                      {node.node.frontmatter.post_date} |{' '}
-                      {node.node.frontmatter.category}
+                      {moment(node.node.frontmatter.post_date)
+                        .local()
+                        .format(`DD.MM.YYYY`)}{' '}
+                      | {node.node.frontmatter.category}
                     </span>
                   </div>
                 </article>
@@ -72,8 +75,10 @@ export default ({ data }) => {
                     <div className="post-content">
                       <h2>{node.node.frontmatter.title}</h2>
                       <span className="blog-info">
-                        {node.node.frontmatter.post_date} |{' '}
-                        {node.node.frontmatter.category}
+                        {moment(node.node.frontmatter.post_date)
+                          .local()
+                          .format(`DD.MM.YYYY`)}{' '}
+                        | {node.node.frontmatter.category}
                       </span>
                     </div>
                   </article>
@@ -98,7 +103,7 @@ export const query = graphql`
           frontmatter {
             title
             path
-            post_date(formatString: "DD.MM.YYYY")
+            post_date
             category
             listing_image {
               childImageSharp {
@@ -121,7 +126,7 @@ export const query = graphql`
           frontmatter {
             title
             path
-            post_date(formatString: "DD.MM.YYYY")
+            post_date
             category
             listing_image {
               childImageSharp {

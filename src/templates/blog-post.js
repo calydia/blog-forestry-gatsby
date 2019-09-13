@@ -2,6 +2,7 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import Img from 'gatsby-image';
 import { Helmet } from 'react-helmet';
+import moment from 'moment';
 import Layout from '../components/Layout';
 import Info from '../components/Info';
 
@@ -30,7 +31,10 @@ export default ({ data }) => {
         <div className="blog-content">
           <h1>{post.frontmatter.title}</h1>
           <span className="blog-info">
-            {post.frontmatter.post_date} | {post.frontmatter.category}
+            {moment(post.frontmatter.post_date)
+              .local()
+              .format(`DD.MM.YYYY`)}{' '}
+            | {post.frontmatter.category}
           </span>
           <div dangerouslySetInnerHTML={{ __html: post.frontmatter.body }} />
           <div
@@ -52,7 +56,7 @@ export const query = graphql`
       frontmatter {
         title
         body
-        post_date(formatString: "DD.MM.YYYY")
+        post_date
         category
         image_alt_text
         meta_description

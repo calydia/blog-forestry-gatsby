@@ -2,6 +2,7 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import Img from 'gatsby-image';
 import { Helmet } from 'react-helmet';
+import moment from 'moment';
 import Layout from '../components/Layout';
 import Info from '../components/Info';
 
@@ -54,8 +55,10 @@ export default ({ data }) => {
                   <div className="post-content">
                     <h2>{node.node.frontmatter.title}</h2>
                     <span className="blog-info">
-                      {node.node.frontmatter.post_date} |{' '}
-                      {node.node.frontmatter.category}
+                      {moment(node.node.frontmatter.post_date)
+                        .local()
+                        .format(`DD.MM.YYYY`)}{' '}
+                      | {node.node.frontmatter.category}
                     </span>
                   </div>
                 </article>
@@ -83,8 +86,10 @@ export default ({ data }) => {
                     <div className="post-content">
                       <h2>{node.node.frontmatter.title}</h2>
                       <span className="blog-info">
-                        {node.node.frontmatter.post_date} |{' '}
-                        {node.node.frontmatter.category}
+                        {moment(node.node.frontmatter.post_date)
+                          .local()
+                          .format(`DD.MM.YYYY`)}{' '}
+                        | {node.node.frontmatter.category}
                       </span>
                     </div>
                   </article>
@@ -100,6 +105,7 @@ export default ({ data }) => {
     </Layout>
   );
 };
+
 export const query = graphql`
   query($slug: String!, $category: [String]) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
@@ -121,7 +127,7 @@ export const query = graphql`
           frontmatter {
             title
             path
-            post_date(formatString: "DD.MM.YYYY")
+            post_date
             category
             image_alt_text
             listing_image {
@@ -147,7 +153,7 @@ export const query = graphql`
           frontmatter {
             title
             path
-            post_date(formatString: "DD.MM.YYYY")
+            post_date
             category
             image_alt_text
             listing_image {
