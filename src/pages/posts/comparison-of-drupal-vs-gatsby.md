@@ -13,8 +13,8 @@ body: <p>I created two versions of my portfolio. With the first (and the officia
   As a Drupal developer, I wanted to give it a go. That way I could focus my learning
   more on Gatsby.</p><p>If you aren't familiar with Drupal and Gatsby you can <a href="https://www.drupal.org/"
   title="">learn more about Drupal</a> and <a href="https://www.gatsbyjs.org/" title="">learn
-  more about Gatsby</a>. But in short, Drupal is an open source CMS and Gatsby is
-  an open source framework based on React.</p><p>After starting the project, I decided
+  more about Gatsby</a>. But in short, Drupal is an open-source CMS and Gatsby is
+  an open-source framework based on React.</p><p>After starting the project, I decided
   to use the Drupal as its own site as well. Because it would give me the opportunity
   to compare working with only Drupal and working with more modern solutions.</p><h2>Local
   development</h2><p>Developing both sites was relatively easy since I could plan
@@ -24,7 +24,7 @@ body: <p>I created two versions of my portfolio. With the first (and the officia
   was around to help me with those issues. He is an expert with Docker and pretty
   much all kinds of things on the server-side. Gatsby's installation was much easier.
   And one thing I love about Gatsby is its excellent documentation. Most of the documentation
-  is very newbie friendly. And the community is very welcoming.</p><h2>Production</h2><p>The
+  is very newbie-friendly. And the community is very welcoming.</p><h2>Production</h2><p>The
   big difference came when it was time to host the sites. I outsourced the hosting
   setup to my fiancé. He fought with the setup for days, trying to make it as good
   as possible without too many compromises. The difficulties with the Drupal site
