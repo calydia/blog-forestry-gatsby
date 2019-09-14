@@ -31,19 +31,20 @@ body: <p>I created two versions of my portfolio. With the first (and the officia
   were mostly because of PHP. I had originally planned to set up the Gatsby version
   on Netlify, but he suggested it could coexist with the Drupal site. That way I could
   also better see the differences in the sites' speed and all those juicy bits. It
-  was a good idea so that became the plan.</p><h2>Lighthouse audits</h2><p>The Lighthouse
-  audit results on my local machine have huge differences in performance. The Drupal
-  version got 37 (mobile) and 38 (desktop) on performance while the Gatsby version
-  100 on both. The Drupal is running with Docker4Drupal setup. I had noticed that
-  the local Drupal was slow but in my case, they often are so I paid it no attention.
-  Speed wasn't that important with this project since the site is tiny.</p><p>On the
-  server-side, the Drupal version got 98 (mobile) and 100 (desktop) points in performance.
-  So good job on the hosting side of things. The site is pretty simple, though, so
-  I was expecting good results. I'd like to see if there is more difference when working
-  with larger projects, so maybe I will need to come up with a large project at some
-  point.</p><p>If you're interested in the sites, <a href="https://drupal.sanna.ninja/"
-  title="">the Drupal portfolio is located here</a> and <a href="https://sanna.ninja/"
-  title="">the Gatsby portfolio is located here</a>.</p>
+  was a good idea so that became the plan.</p><p>The production sites are hosted on
+  Kubernetes.</p><h2>Lighthouse audits</h2><p>The Lighthouse audit results on my local
+  machine have huge differences in performance. The Drupal version got 37 (mobile)
+  and 38 (desktop) on performance while the Gatsby version 100 on both. The Drupal
+  is running with Docker4Drupal setup. I had noticed that the local Drupal was slow
+  but in my case, they often are so I paid it no attention. Speed wasn't that important
+  with this project since the site is tiny.</p><p>On the server-side, the Drupal version
+  got 98 (mobile) and 100 (desktop) points in performance. So good job on the hosting
+  side of things. The site is pretty simple, though, so I was expecting good results.
+  I'd like to see if there is more difference when working with larger projects, so
+  maybe I will need to come up with a large project at some point.</p><p>If you're
+  interested in the sites, <a href="https://drupal.sanna.ninja/" title="">the Drupal
+  portfolio is located here</a> and <a href="https://sanna.ninja/" title="">the Gatsby
+  portfolio is located here</a>.</p>
 photo_credits: ''
 image_alt_text: Drupal 8 and Gatsby logos
 meta_description: Comparing Drupal and Gatsby from a portfolio point of view.
