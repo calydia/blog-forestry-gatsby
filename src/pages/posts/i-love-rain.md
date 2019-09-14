@@ -2,9 +2,9 @@
 category:
 - Life
 type: blog-post
-title: I love rain
-path: "/life/i-love-rain"
-post_date: 2019-09-11T00:00:00+03:00
+title: I love the rain
+path: "/life/i-love-the-rain"
+post_date: 2019-09-10T21:00:00.000+00:00
 main_image: "/uploads/rain-main.jpg"
 listing_image: "/uploads/rain-thumb.jpg"
 image_alt_text: Rain hitting a metal surface
