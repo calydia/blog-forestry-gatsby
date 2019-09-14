@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://blog-sanna-makinen.netlify.com/* https://blog.sanna.ninja/:splat 301!
