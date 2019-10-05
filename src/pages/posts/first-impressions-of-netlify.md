@@ -1,5 +1,6 @@
 ---
-category: []
+category:
+- Tech
 type: blog-post
 title: First impressions of Netlify
 path: "/tech/first-impressions-of-netlify"
