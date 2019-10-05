@@ -77,6 +77,7 @@ fields:
       format: markdown
   label: Meta description
 pages:
+- src/pages/posts/remote-working-from-a-feline-point-of-view.md
 - src/pages/posts/first-impressions-of-netlify.md
 - src/pages/posts/remote-working.md
 - src/pages/posts/toys-games-words-more-cat-stuff.md
