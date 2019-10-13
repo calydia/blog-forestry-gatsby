@@ -58,7 +58,9 @@ body: "<p>I'm currently working on a Drupal 8 site that is almost identical with
   working when importing new configs a lot easier.</p><p>I don't necessarily recommend
   the manual importing process for all sites but I think it's nice to know that it's
   possible to do. And in this case, it saved me a lot of work.</p>"
-photo_credits: ''
+photo_credits: <p>Photo by <a href="https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+  rel="noopener noreferrer" target="_blank">Markus Spiske</a> on <a href="https://unsplash.com/search/photos/exhaustion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
+  rel="noopener noreferrer" target="_blank">Unsplash</a></p>
 meta_description: Copying a Drupal site's configuration to another site. What it requires?
 
 ---
