@@ -77,6 +77,7 @@ fields:
       format: markdown
   label: Meta description
 pages:
+- src/pages/posts/drupal-8-and-kubernetes.md
 - src/pages/posts/creating-almost-identical-drupal-sites.md
 - src/pages/posts/remote-working-from-a-feline-point-of-view.md
 - src/pages/posts/first-impressions-of-netlify.md
