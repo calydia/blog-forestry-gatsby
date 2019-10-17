@@ -77,6 +77,11 @@ fields:
       format: markdown
   label: Meta description
 pages:
+- src/pages/posts/drupal-8-and-kubernetes.md
+- src/pages/posts/creating-almost-identical-drupal-sites.md
+- src/pages/posts/remote-working-from-a-feline-point-of-view.md
+- src/pages/posts/first-impressions-of-netlify.md
+- src/pages/posts/remote-working.md
 - src/pages/posts/toys-games-words-more-cat-stuff.md
 - src/pages/posts/the-importance-of-sleep.md
 - src/pages/posts/comparison-of-drupal-vs-gatsby.md
