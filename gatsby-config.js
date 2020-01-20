@@ -112,7 +112,12 @@ module.exports = {
         icon: `src/assets/icon.png`,
       },
     },
-    `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        exclude: [`/cats`, `/life`, `/tech`],
+      },
+    },
     `gatsby-plugin-offline`,
     {
       resolve: 'gatsby-plugin-html-attributes',
