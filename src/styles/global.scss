@@ -97,6 +97,10 @@ a {
   margin-top: 3em;
 }
 
+pre {
+  overflow-x: auto;
+}
+
 // Dark theme overrides
 .dark {
   background: $dark_primary;
