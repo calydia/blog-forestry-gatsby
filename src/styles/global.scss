@@ -51,7 +51,7 @@ body {
 
 .light {
   background: $primary;
-  background: linear-gradient(270deg, #8bcbe1 $primary);
+  background: linear-gradient(270deg, #8bcbe1, $primary);
   background-size: 400% 400%;
 
   -webkit-animation: BackgroundAnimation 30s ease infinite;
