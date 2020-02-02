@@ -77,20 +77,21 @@ fields:
       format: markdown
   label: Meta description
 pages:
-- src/pages/posts/pets-and-my-mental-health.md
-- src/pages/posts/the-importance-of-good-support.md
-- src/pages/posts/the-selected-interface-language-setting-in-drupal.md
-- src/pages/posts/remote-working.md
-- src/pages/posts/first-impressions-of-netlify.md
-- src/pages/posts/remote-working-from-a-feline-point-of-view.md
-- src/pages/posts/drupal-8-and-kubernetes.md
-- src/pages/posts/creating-almost-identical-drupal-sites.md
-- src/pages/posts/toys-games-words-more-cat-stuff.md
-- src/pages/posts/the-importance-of-sleep.md
 - src/pages/posts/comparison-of-drupal-vs-gatsby.md
-- src/pages/posts/i-love-rain.md
-- src/pages/posts/unintentionally-teaching-cats-funny-habits.md
-- src/pages/posts/the-most-addicting-game-of-the-year-award-goes-to-beatsaber.md
+- src/pages/posts/creating-almost-identical-drupal-sites.md
+- src/pages/posts/drupal-8-and-kubernetes.md
 - src/pages/posts/fighting-exhaustion.md
-- src/pages/posts/people-who-have-inspired-me.md
+- src/pages/posts/first-impressions-of-netlify.md
+- src/pages/posts/i-love-rain.md
 - src/pages/posts/intro-to-osiris.md
+- src/pages/posts/people-who-have-inspired-me.md
+- src/pages/posts/pets-and-my-mental-health.md
+- src/pages/posts/recovering-from-exhaustion.md
+- src/pages/posts/remote-working-from-a-feline-point-of-view.md
+- src/pages/posts/remote-working.md
+- src/pages/posts/the-importance-of-good-support.md
+- src/pages/posts/the-importance-of-sleep.md
+- src/pages/posts/the-most-addicting-game-of-the-year-award-goes-to-beatsaber.md
+- src/pages/posts/the-selected-interface-language-setting-in-drupal.md
+- src/pages/posts/toys-games-words-more-cat-stuff.md
+- src/pages/posts/unintentionally-teaching-cats-funny-habits.md
