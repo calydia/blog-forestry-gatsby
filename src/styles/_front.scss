@@ -36,6 +36,7 @@
   .post {
     @media only screen and (min-width: 1000px) {
       flex-flow: row wrap;
+      padding: 1em;
     }
     .gatsby-image-wrapper {
       max-width: 513px;
