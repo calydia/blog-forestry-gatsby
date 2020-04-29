@@ -24,6 +24,10 @@ export default ({ data }) => {
         <meta property="og:locale" content="en" />
         <meta property="og:site_name" content="Blog - Sanna Mäkinen" />
         <meta property="og:image" content={mainFluid.src} />
+        <link
+          rel="canonical"
+          href={`https://blog.sanna.ninja${post.frontmatter.path}`}
+        />
       </Helmet>
 
       <div className="blog-wrapper">
@@ -61,6 +65,7 @@ export const query = graphql`
         image_alt_text
         meta_description
         photo_credits
+        path
         main_image {
           childImageSharp {
             fluid(maxWidth: 1500) {
