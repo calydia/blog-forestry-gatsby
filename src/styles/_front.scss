@@ -30,7 +30,7 @@
     grid-gap: 40px 40px;
   }
   @media only screen and (min-width: 940px) {
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 40px 40px;
   }
   .post {
@@ -50,7 +50,7 @@
       @include fontSize(22px);
       margin-bottom: 0.5em;
       @media only screen and (min-width: 1000px) {
-        @include fontSize(26px);
+        @include fontSize(22px);
       }
     }
   }

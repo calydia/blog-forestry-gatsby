@@ -133,7 +133,7 @@ export const query = graphql`
             listing_image {
               childImageSharp {
                 fluid(maxWidth: 1025) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }
@@ -159,7 +159,7 @@ export const query = graphql`
             listing_image {
               childImageSharp {
                 fluid(maxWidth: 945) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_withWebp
                 }
               }
             }
