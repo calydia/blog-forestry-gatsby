@@ -31,7 +31,7 @@ export default ({ data }) => {
       </Helmet>
 
       <div className="blog-wrapper">
-        <Img fluid={mainFluid} alt={post.frontmatter.image_alt_text} />
+        <Img fluid={mainFluid} alt="" />
         <div className="blog-content">
           <h1>{post.frontmatter.title}</h1>
           <span className="blog-info">

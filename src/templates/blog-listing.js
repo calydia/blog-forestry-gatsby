@@ -48,10 +48,7 @@ export default ({ data }) => {
                 aria-label={node.node.frontmatter.title}
               >
                 <article key={index} className="post">
-                  <Img
-                    fluid={listingFluid}
-                    alt={node.node.frontmatter.image_alt_text}
-                  />
+                  <Img fluid={listingFluid} alt="" />
                   <div className="post-content">
                     <h2>{node.node.frontmatter.title}</h2>
                     <span className="blog-info">
@@ -79,10 +76,7 @@ export default ({ data }) => {
                   aria-label={node.node.frontmatter.title}
                 >
                   <article key={index} className="post">
-                    <Img
-                      fluid={listingFluid}
-                      alt={node.node.frontmatter.image_alt_text}
-                    />
+                    <Img fluid={listingFluid} alt="" />
                     <div className="post-content">
                       <h2>{node.node.frontmatter.title}</h2>
                       <span className="blog-info">
