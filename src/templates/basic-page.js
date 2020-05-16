@@ -22,6 +22,10 @@ export default ({ data }) => {
         <meta property="og:locale" content="en" />
         <meta property="og:site_name" content="Blog - Sanna Mäkinen" />
         <meta property="og:image" content={mainFluid.src} />
+        <link
+          rel="canonical"
+          href={`https://blog.sanna.ninja${post.frontmatter.path}`}
+        />
       </Helmet>
 
       <div className="blog-wrapper">
@@ -40,6 +44,7 @@ export const query = graphql`
       frontmatter {
         title
         body
+        path
         image_alt_text
         meta_description
         main_image {
