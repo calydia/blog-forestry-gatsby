@@ -115,7 +115,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sitemap`,
       options: {
-        exclude: [`/cats`, `/life`, `/tech`],
+        exclude: [`/cats`, `/life`, `/tech`, `/about-me`],
       },
     },
     `gatsby-plugin-offline`,

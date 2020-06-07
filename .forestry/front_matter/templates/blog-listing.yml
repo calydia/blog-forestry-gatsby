@@ -44,5 +44,5 @@ fields:
       format: markdown
   label: Meta description
 pages:
-- src/pages/listings/tech.md
 - src/pages/listings/life.md
+- src/pages/listings/tech.md

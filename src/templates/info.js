@@ -14,11 +14,11 @@ export default ({ data }) => {
         <title>{post.frontmatter.title} | Blog - Sanna Mäkinen</title>
         <meta
           name="Description"
-          content="I'm a developer by profession. So basically I like to code. I love cats."
+          content="I'm a developer by profession. I love cats and the rain."
         />
         <meta
           property="og:description"
-          content="I'm a developer by profession. So basically I like to code. I love cats."
+          content="I'm a developer by profession. I love cats and the rain."
         />
         <meta property="og:title" content={post.frontmatter.title} />
         <meta property="og:type" content="website" />
@@ -49,7 +49,7 @@ export const query = graphql`
         profile_image {
           childImageSharp {
             fluid(maxWidth: 250) {
-              ...GatsbyImageSharpFluid
+              ...GatsbyImageSharpFluid_withWebp
             }
           }
         }
