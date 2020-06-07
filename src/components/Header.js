@@ -23,6 +23,9 @@ export default () => {
     <ThemeContext.Consumer>
       {theme => (
         <div className="header-wrapper">
+          <button className="dark-switcher" onClick={theme.toggleDark}>
+            {theme.dark ? <span>Light mode</span> : <span>Dark mode</span>}
+          </button>
           <header className="main-header">
             <Link className="home-main" to="/">
               <span className="name">Sanna Mäkinen</span>
@@ -43,9 +46,6 @@ export default () => {
                 );
               })}
             </ul>
-            <button className="dark-switcher" onClick={theme.toggleDark}>
-              {theme.dark ? <span>Light mode</span> : <span>Dark mode</span>}
-            </button>
           </header>
         </div>
       )}
