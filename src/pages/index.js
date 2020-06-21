@@ -25,9 +25,9 @@ export default ({ data }) => {
         <meta property="og:image:height" content="630" />
       </Helmet>
 
-      <div className="blog-wrapper">
+      <main className="blog-wrapper">
         <section className="front-intro">
-          <h1>Welcome to my blog!</h1>
+          <h1 id="skip-target">Welcome to my blog!</h1>
           <p></p>
         </section>
 
@@ -87,7 +87,7 @@ export default ({ data }) => {
             })}
           </div>
         </section>
-      </div>
+      </main>
     </Layout>
   );
 };

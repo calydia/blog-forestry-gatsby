@@ -30,9 +30,9 @@ export default ({ data }) => {
         <meta property="og:image:height" content="630" />
       </Helmet>
 
-      <div className="blog-wrapper">
+      <main className="blog-wrapper">
         <section className="category-intro">
-          <h1>{content.frontmatter.title}</h1>
+          <h1 id="skip-target">{content.frontmatter.title}</h1>
           <div dangerouslySetInnerHTML={{ __html: content.frontmatter.body }} />
         </section>
 
@@ -95,7 +95,7 @@ export default ({ data }) => {
             <Info />
           </aside>
         </section>
-      </div>
+      </main>
     </Layout>
   );
 };

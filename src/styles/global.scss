@@ -141,6 +141,27 @@ pre {
   overflow-x: auto;
 }
 
+.skip-link {
+  position: absolute;
+  left: -999px;
+  width: 1px;
+  height: 1px;
+  top: auto;
+
+  &:focus {
+    background: white;
+    color: $secondary;
+    display: inline-block;
+    height: auto;
+    left: 0;
+    width: auto;
+    position: absolute;
+    margin: auto;
+    padding: 0.7em;
+    top: 2em;
+  }
+}
+
 // Dark theme overrides
 .dark {
   background: $dark_primary;
@@ -160,6 +181,12 @@ pre {
     color: $dark_blue;
     &:hover {
       color: wheat;
+    }
+  }
+  .skip-link {
+    &:focus {
+      background: black;
+      color: white;
     }
   }
 }
