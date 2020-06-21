@@ -29,13 +29,13 @@ export default ({ data }) => {
         <meta property="og:image:height" content="630" />
       </Helmet>
 
-      <div className="blog-wrapper">
+      <main className="blog-wrapper">
         <Img fluid={mainFluid} />
         <div className="blog-content">
-          <h1>{post.frontmatter.name}</h1>
+          <h1 id="skip-target">{post.frontmatter.name}</h1>
           <div dangerouslySetInnerHTML={{ __html: post.frontmatter.info }} />
         </div>
-      </div>
+      </main>
     </Layout>
   );
 };

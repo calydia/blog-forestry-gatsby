@@ -6,7 +6,7 @@ import Footer from '../components/Footer';
 export default ({ children }) => {
   return (
     <ThemeContext.Consumer>
-      {theme => (
+      {(theme) => (
         <div className={theme.dark ? 'dark' : 'light'}>
           <Header />
           {children}

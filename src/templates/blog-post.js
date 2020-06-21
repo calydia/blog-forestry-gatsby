@@ -33,7 +33,7 @@ export default ({ data }) => {
       <div className="blog-wrapper">
         <Img fluid={mainFluid} alt="" />
         <section className="blog-content">
-          <h1>{post.frontmatter.title}</h1>
+          <h1 id="skip-target">{post.frontmatter.title}</h1>
           <span className="blog-info">
             {moment(post.frontmatter.post_date).local().format(`DD.MM.YYYY`)} |{' '}
             {post.frontmatter.category}

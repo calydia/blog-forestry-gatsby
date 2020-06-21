@@ -28,13 +28,13 @@ export default ({ data }) => {
         />
       </Helmet>
 
-      <div className="blog-wrapper">
+      <main className="blog-wrapper">
         <Img fluid={mainFluid} alt={post.frontmatter.image_alt_text} />
         <div className="basic-content">
-          <h1>{post.frontmatter.title}</h1>
+          <h1 id="skip-target">{post.frontmatter.title}</h1>
           <div dangerouslySetInnerHTML={{ __html: post.frontmatter.body }} />
         </div>
-      </div>
+      </main>
     </Layout>
   );
 };
