@@ -32,20 +32,18 @@ export default ({ data }) => {
 
       <div className="blog-wrapper">
         <Img fluid={mainFluid} alt="" />
-        <div className="blog-content">
+        <section className="blog-content">
           <h1>{post.frontmatter.title}</h1>
           <span className="blog-info">
-            {moment(post.frontmatter.post_date)
-              .local()
-              .format(`DD.MM.YYYY`)}{' '}
-            | {post.frontmatter.category}
+            {moment(post.frontmatter.post_date).local().format(`DD.MM.YYYY`)} |{' '}
+            {post.frontmatter.category}
           </span>
           <div dangerouslySetInnerHTML={{ __html: post.frontmatter.body }} />
           <div
             className="photo-credits"
             dangerouslySetInnerHTML={{ __html: post.frontmatter.photo_credits }}
           />
-        </div>
+        </section>
 
         <aside className="sidebar">
           <Info />
