@@ -12,7 +12,7 @@ export default () => {
           rel="noopener noreferrer"
           aria-label="My portfolio"
         >
-          Sanna Mäkinen
+          My portfolio
         </a>
         <div className="links">
           <a
@@ -22,11 +22,11 @@ export default () => {
             rel="noopener noreferrer"
             aria-label="My Twitter profile"
           >
-            <span className="link-name">Twitter</span>
+            <span className="link-name">My Twitter profile</span>
             <TwitterIcon />
           </a>
           <a href="/rss.xml" className="rss-link" aria-label="Blog RSS feed">
-            <span className="link-name">RSS</span>
+            <span className="link-name">Blog RSS feed</span>
             <RssIcon />
           </a>
         </div>
