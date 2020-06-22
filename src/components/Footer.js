@@ -31,6 +31,7 @@ export default () => {
           </a>
         </div>
       </div>
+      <script src="/skip-content.js" type="text/javascript" />
     </footer>
   );
 };
