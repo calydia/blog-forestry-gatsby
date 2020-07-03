@@ -9,7 +9,6 @@ export default ({ data }) => {
   return (
     <Layout>
       <Helmet>
-        <meta charSet="utf-8" />
         <title>Welcome to my blog! | Blog - Sanna Mäkinen</title>
         <meta name="Description" content="Posts about cats, life and tech." />
         <meta
@@ -40,7 +39,6 @@ export default ({ data }) => {
                 key={index}
                 href={node.node.frontmatter.path}
                 className="blog-link"
-                aria-label={node.node.frontmatter.title}
               >
                 <article key={index} className="post">
                   <Img fluid={listingFluid} />
@@ -58,35 +56,36 @@ export default ({ data }) => {
             );
           })}
         </div>
-        <section className="front-blog-container">
-          <div className="front-blog-list">
+        <div className="front-blog-container">
+          <ul className="front-blog-list">
             {data.all.edges.map((node, index) => {
               let listingFluid =
                 node.node.frontmatter.listing_image.childImageSharp.fluid;
               return (
-                <a
-                  key={index}
-                  href={node.node.frontmatter.path}
-                  className="blog-link"
-                  aria-label={node.node.frontmatter.title}
-                >
-                  <article key={index} className="post">
-                    <Img fluid={listingFluid} />
-                    <div className="post-content">
-                      <h2>{node.node.frontmatter.title}</h2>
-                      <span className="blog-info">
-                        {moment(node.node.frontmatter.post_date)
-                          .local()
-                          .format(`DD.MM.YYYY`)}{' '}
-                        | {node.node.frontmatter.category}
-                      </span>
-                    </div>
-                  </article>
-                </a>
+                <li key={`list-item${index}`} className="blog-list-item">
+                  <a
+                    key={index}
+                    href={node.node.frontmatter.path}
+                    className="blog-link"
+                  >
+                    <article key={index} className="post">
+                      <Img fluid={listingFluid} />
+                      <div className="post-content">
+                        <h2>{node.node.frontmatter.title}</h2>
+                        <span className="blog-info">
+                          {moment(node.node.frontmatter.post_date)
+                            .local()
+                            .format(`DD.MM.YYYY`)}{' '}
+                          | {node.node.frontmatter.category}
+                        </span>
+                      </div>
+                    </article>
+                  </a>
+                </li>
               );
             })}
-          </div>
-        </section>
+          </ul>
+        </div>
       </main>
     </Layout>
   );

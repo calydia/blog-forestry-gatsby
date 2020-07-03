@@ -6,12 +6,7 @@ export default () => {
   return (
     <footer className="main-footer">
       <div className="footer-content">
-        <a
-          href="https://sanna.ninja"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="My portfolio"
-        >
+        <a href="https://sanna.ninja" target="_blank" rel="noopener noreferrer">
           My portfolio
         </a>
         <div className="links">
@@ -20,12 +15,11 @@ export default () => {
             className="twitter-link"
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="My Twitter profile"
           >
             <span className="link-name">My Twitter profile</span>
             <TwitterIcon />
           </a>
-          <a href="/rss.xml" className="rss-link" aria-label="Blog RSS feed">
+          <a href="/rss.xml" className="rss-link">
             <span className="link-name">Blog RSS feed</span>
             <RssIcon />
           </a>
