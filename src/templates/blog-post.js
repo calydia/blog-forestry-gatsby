@@ -12,7 +12,6 @@ export default ({ data }) => {
   return (
     <Layout>
       <Helmet>
-        <meta charSet="utf-8" />
         <title>{post.frontmatter.title} | Blog - Sanna Mäkinen</title>
         <meta name="Description" content={post.frontmatter.meta_description} />
         <meta

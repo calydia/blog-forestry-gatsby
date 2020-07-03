@@ -6,11 +6,6 @@ module.exports = {
     siteUrl: 'https://blog.sanna.ninja',
     menuLinks: [
       {
-        name: 'About',
-        link: '/about',
-        id: 'menu-1',
-      },
-      {
         name: 'Cats',
         link: '/cats',
         id: 'menu-2',
@@ -115,7 +110,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sitemap`,
       options: {
-        exclude: [`/cats`, `/life`, `/tech`, `/about-me`],
+        exclude: [`/cats`, `/life`, `/tech`, `/about-me`, `/about`],
       },
     },
     `gatsby-plugin-offline`,
@@ -153,7 +148,7 @@ module.exports = {
         feeds: [
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
-              return allMarkdownRemark.edges.map(edge => {
+              return allMarkdownRemark.edges.map((edge) => {
                 return Object.assign({}, edge.node.frontmatter, {
                   description: edge.node.meta_description,
                   date: edge.node.frontmatter.post_date,

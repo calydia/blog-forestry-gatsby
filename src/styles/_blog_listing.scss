@@ -47,7 +47,10 @@
 }
 
 .blog-list {
+  list-style: none;
+  margin: 0;
   max-width: calc(1025px + 2em);
+  padding: 0;
   width: 100%;
   @media only screen and (min-width: 1000px) {
     margin-right: 2em;
