@@ -57,6 +57,7 @@
     width: calc(100% - 280px - 2em);
   }
   .post {
+    margin-bottom: 2em;
     .gatsby-image-wrapper {
       width: 100%;
       @media only screen and (min-width: 1000px) {
@@ -69,7 +70,6 @@
 .blog-link {
   color: black;
   display: block;
-  margin-bottom: 2em;
   &:hover {
     color: $secondary;
   }

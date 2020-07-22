@@ -40,25 +40,26 @@ export default ({ data }) => {
             let listingFluid =
               node.node.frontmatter.listing_image.childImageSharp.fluid;
             return (
-              <a
-                key={index}
-                href={node.node.frontmatter.path}
-                className="blog-link"
-                arialabelledby="blog-title-main"
-              >
-                <article key={index} className="post">
-                  <Img fluid={listingFluid} alt="" />
-                  <div className="post-content">
-                    <h2 id="blog-title-main">{node.node.frontmatter.title}</h2>
-                    <span className="blog-info">
-                      {moment(node.node.frontmatter.post_date)
-                        .local()
-                        .format(`DD.MM.YYYY`)}{' '}
-                      | {node.node.frontmatter.category}
-                    </span>
-                  </div>
-                </article>
-              </a>
+              <article key={index} className="post">
+                <Img fluid={listingFluid} alt="" />
+                <div className="post-content">
+                  <h2>
+                    <a
+                      key={index}
+                      href={node.node.frontmatter.path}
+                      className="blog-link"
+                    >
+                      {node.node.frontmatter.title}
+                    </a>
+                  </h2>
+                  <span className="blog-info">
+                    {moment(node.node.frontmatter.post_date)
+                      .local()
+                      .format(`DD.MM.YYYY`)}{' '}
+                    | {node.node.frontmatter.category}
+                  </span>
+                </div>
+              </article>
             );
           })}
         </div>
@@ -69,27 +70,26 @@ export default ({ data }) => {
                 node.node.frontmatter.listing_image.childImageSharp.fluid;
               return (
                 <li key={`list-item${index}`} className="blog-list-item">
-                  <a
-                    key={index}
-                    href={node.node.frontmatter.path}
-                    className="blog-link"
-                    arialabelledby={`blog-title-${index}`}
-                  >
-                    <article key={index} className="post">
-                      <Img fluid={listingFluid} alt="" />
-                      <div className="post-content">
-                        <h2 id={`blog-title-${index}`}>
+                  <article key={index} className="post">
+                    <Img fluid={listingFluid} alt="" />
+                    <div className="post-content">
+                      <h2>
+                        <a
+                          key={index}
+                          href={node.node.frontmatter.path}
+                          className="blog-link"
+                        >
                           {node.node.frontmatter.title}
-                        </h2>
-                        <span className="blog-info">
-                          {moment(node.node.frontmatter.post_date)
-                            .local()
-                            .format(`DD.MM.YYYY`)}{' '}
-                          | {node.node.frontmatter.category}
-                        </span>
-                      </div>
-                    </article>
-                  </a>
+                        </a>
+                      </h2>
+                      <span className="blog-info">
+                        {moment(node.node.frontmatter.post_date)
+                          .local()
+                          .format(`DD.MM.YYYY`)}{' '}
+                        | {node.node.frontmatter.category}
+                      </span>
+                    </div>
+                  </article>
                 </li>
               );
             })}
