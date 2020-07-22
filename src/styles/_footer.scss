@@ -16,18 +16,26 @@
 }
 
 .twitter-link {
+  border: 1px solid transparent;
   display: block;
   height: 30px;
   margin: 0.2em;
   padding: 0.5em;
   width: 30px;
+  &:hover {
+    border: 1px solid black;
+  }
 }
 .rss-link {
+  border: 1px solid transparent;
   display: block;
   height: 25px;
   margin: 0.2em;
   padding: 0.65em;
   width: 25px;
+  &:hover {
+    border: 1px solid black;
+  }
 }
 .link-name {
   display: none;
@@ -37,5 +45,17 @@
 .dark {
   .main-footer {
     background: $dark_secondary;
+  }
+  .twitter-link {
+    border: 1px solid transparent;
+    &:hover {
+      border: 1px solid white;
+    }
+  }
+  .rss-link {
+    border: 1px solid transparent;
+    &:hover {
+      border: 1px solid white;
+    }
   }
 }

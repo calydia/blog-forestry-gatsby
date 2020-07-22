@@ -131,6 +131,7 @@ a {
   text-decoration: none;
   &:hover {
     color: $third;
+    text-decoration: underline;
   }
 }
 
