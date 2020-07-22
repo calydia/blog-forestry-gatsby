@@ -44,11 +44,12 @@ export default ({ data }) => {
                 key={index}
                 href={node.node.frontmatter.path}
                 className="blog-link"
+                arialabelledby="blog-title-main"
               >
                 <article key={index} className="post">
                   <Img fluid={listingFluid} alt="" />
                   <div className="post-content">
-                    <h2>{node.node.frontmatter.title}</h2>
+                    <h2 id="blog-title-main">{node.node.frontmatter.title}</h2>
                     <span className="blog-info">
                       {moment(node.node.frontmatter.post_date)
                         .local()
@@ -72,11 +73,14 @@ export default ({ data }) => {
                     key={index}
                     href={node.node.frontmatter.path}
                     className="blog-link"
+                    arialabelledby={`blog-title-${index}`}
                   >
                     <article key={index} className="post">
                       <Img fluid={listingFluid} alt="" />
                       <div className="post-content">
-                        <h2>{node.node.frontmatter.title}</h2>
+                        <h2 id={`blog-title-${index}`}>
+                          {node.node.frontmatter.title}
+                        </h2>
                         <span className="blog-info">
                           {moment(node.node.frontmatter.post_date)
                             .local()
