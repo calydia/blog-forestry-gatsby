@@ -44,6 +44,9 @@
       width: 100%;
     }
   }
+  .blog-info {
+    color: #5c5c5c;
+  }
 }
 
 .blog-list {
@@ -70,13 +73,16 @@
 .blog-link {
   color: black;
   display: block;
+  text-decoration: s;
   &:hover {
     color: $secondary;
   }
   h2 {
     @include fontSize(22px);
+    font-weight: normal;
     @media only screen and (min-width: 1000px) {
       @include fontSize(30px);
+      font-weight: normal;
     }
   }
 }
@@ -90,6 +96,10 @@
     color: white;
     &:hover {
       color: $dark_blue;
+      text-decoration: underline;
     }
+  }
+  .blog-info {
+    color: #8f8f8f;
   }
 }

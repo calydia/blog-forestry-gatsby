@@ -26,6 +26,7 @@
 .portfolio-link {
   border: 1px solid transparent;
   display: flex;
+  font-weight: bold;
   margin: 0.2em;
   padding: 0.5em;
   &:hover {
@@ -46,6 +47,7 @@
 .twitter-link {
   border: 1px solid transparent;
   display: block;
+  font-weight: bold;
   margin: 0.2em;
   padding: 0.5em;
   &:hover {
@@ -59,6 +61,7 @@
 .rss-link {
   border: 1px solid transparent;
   display: block;
+  font-weight: bold;
   margin: 0.2em;
   padding: 0.65em;
   &:hover {
@@ -104,6 +107,15 @@
     border: 1px solid transparent;
     &:hover {
       border: 1px solid white;
+    }
+  }
+}
+
+.light {
+  .main-footer a {
+    color: #033573;
+    &:hover {
+      color: $secondary;
     }
   }
 }
