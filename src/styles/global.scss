@@ -104,6 +104,13 @@ body {
       line-height: 1.2;
     }
   }
+  a {
+    text-decoration: underline;
+    &:focus,
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 
 .basic-content {
