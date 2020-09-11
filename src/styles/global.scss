@@ -59,6 +59,10 @@ body {
     -moz-animation: BackgroundAnimation 30s ease infinite;
     animation: BackgroundAnimation 30s ease infinite;
   }
+
+  .blog-content {
+    box-shadow: 0px 0px 18px 0px rgba(0, 0, 0, 0.3);
+  }
 }
 
 .blog-wrapper {

@@ -94,9 +94,6 @@ export default ({ data }) => {
               );
             })}
           </ul>
-          <aside className="sidebar">
-            <Info />
-          </aside>
         </div>
       </main>
     </Layout>
