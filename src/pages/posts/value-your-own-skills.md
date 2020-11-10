@@ -4,7 +4,7 @@ category:
 type: blog-post
 title: Value your own skills
 path: "/life/value-your-own-skills"
-post_date: 2020-08-13T00:00:00+03:00
+post_date: 2020-08-13T00:00:00.000+03:00
 main_image: "/uploads/woman-holding-flower-main.jpg"
 listing_image: "/uploads/woman-holding-flower-thumb.jpg"
 image_alt_text: Woman holding a flower in her hands
@@ -55,7 +55,7 @@ body: <p>I don't think there is a single person who is good at everything. Someo
   an environment where you aren't valued for who you are, try to find a safer place
   for you to grow. And always remember to value your own skills! There most likely
   aren't many people who have the same skillset you have, which makes you quite unique.</p>
-photo_credits: <p>Photo by <a href="https://unsplash.com/@lmtrochezz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>Lina
+photo_credits: <p>Photo by <a href="https://unsplash.com/@lmtrochezz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Lina
   Trochez</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"
   rel="noopener noreferrer" target="_blank">Unsplash</a></p>
 meta_description: Don't forget to value yourself and your skillset. Stop comparing
