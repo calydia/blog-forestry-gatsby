@@ -121,6 +121,11 @@
   .post {
     background: $dark_secondary;
   }
+  .blog-list {
+    .blog-list-item {
+      background: $dark_secondary;
+    }
+  }
   .blog-link {
     color: white;
     &:hover {
