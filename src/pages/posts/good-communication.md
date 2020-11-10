@@ -4,7 +4,7 @@ category:
 type: blog-post
 title: Good communication
 path: "/life/good-communication"
-post_date: 2020-09-12T00:00:00+03:00
+post_date: 2020-09-12T00:00:00.000+03:00
 main_image: "/uploads/good-communication.jpg"
 listing_image: "/uploads/good-communication-thumb.jpg"
 image_alt_text: Speech bubble created with papers
@@ -104,9 +104,8 @@ body: <p>I've seen a lot of posts and communication about, well, communication. 
   as well be the color of your shirt or something equally ridiculous. You cannot always
   please everyone but if you are truly yourself, I can guarantee there are more people
   who like you for who you are than those who want to find something wrong with you.</p>
-photo_credits: <p>Photo by <a href="https://unsplash.com/@lunarts?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Volodymyr
-  Hryshchenko" rel="noopener noreferrer" target="_blank">Volodymyr Hryshchenko</a>
-  on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"
+photo_credits: <p>Photo by <a href="https://unsplash.com/@lunarts?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"  rel="noopener
+  noreferrer" target="_blank">Volodymyr Hryshchenko</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"
   rel="noopener noreferrer" target="_blank">Unsplash</a></p>
 meta_description: Good communication isn't achieved by squashing people's personalities.
   It comes from understanding and accepting different kinds of people and their ways
