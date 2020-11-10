@@ -1,5 +1,6 @@
 ---
-category: []
+category:
+- Tech
 type: blog-post
 title: Developing an accessibility policy
 path: "/tech/developing-an-accessibility-policy"
