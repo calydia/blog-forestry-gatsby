@@ -81,6 +81,7 @@ pages:
 - src/pages/posts/accessibility.md
 - src/pages/posts/comparison-of-drupal-vs-gatsby.md
 - src/pages/posts/creating-almost-identical-drupal-sites.md
+- src/pages/posts/developing-an-accessibility-policy.md
 - src/pages/posts/drupal-8-and-kubernetes.md
 - src/pages/posts/fighting-exhaustion.md
 - src/pages/posts/first-impressions-of-gatsby.md
