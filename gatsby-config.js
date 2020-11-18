@@ -66,17 +66,11 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          {
-            family: `Rock Salt`,
-            subsets: [`latin`],
-          },
-          {
-            family: `Assistant`,
-            variants: [`400`, `700`],
-          },
+          `Rock Salt`,
+          `Assistant:400, 700`,
         ],
       },
     },
