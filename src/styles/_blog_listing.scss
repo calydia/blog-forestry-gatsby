@@ -27,18 +27,18 @@
 .blog-list {
   display: grid;
   grid-template-columns: auto;
-  grid-gap: 40px 40px;
+  grid-gap: 30px 30px;
   list-style: none;
   margin: 0;
   padding-left: 0;
   width: 100%;
   @media only screen and (min-width: 520px) {
     grid-template-columns: 1fr 1fr;
-    grid-gap: 40px 40px;
+    grid-gap: 30px 30px;
   }
   @media only screen and (min-width: 940px) {
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-gap: 40px 40px;
+    grid-gap: 30px 30px;
   }
   .post {
     @media only screen and (min-width: 1000px) {
@@ -94,9 +94,9 @@
       width: 100%;
     }
   }
-  .blog-info {
-    color: #5c5c5c;
-  }
+}
+.blog-info {
+  color: #595959;
 }
 
 .blog-link {
@@ -134,6 +134,6 @@
     }
   }
   .blog-info {
-    color: #8f8f8f;
+    color: #A6A6A6;
   }
 }

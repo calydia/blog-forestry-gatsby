@@ -70,7 +70,7 @@ module.exports = {
       options: {
         fonts: [
           `Rock Salt`,
-          `Assistant:400, 700`,
+          `Average Sans:400, 700`,
         ],
       },
     },
