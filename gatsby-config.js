@@ -99,6 +99,10 @@ module.exports = {
         theme_color: `#d8eaf0`,
         display: `minimal-ui`,
         icon: `src/assets/icon.png`,
+        icon_options: {
+          // For all the options available, please see the additional resources below.
+          purpose: `any maskable`,
+        },
       },
     },
     {
