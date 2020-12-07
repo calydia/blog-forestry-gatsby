@@ -64,6 +64,9 @@
   }
   .blog-list-item {
     background: white;
+    border: 3px solid;
+    border-image: $gradient;
+    border-image-slice: 1;
   }
   .blog-link {
     margin-bottom: 0;
